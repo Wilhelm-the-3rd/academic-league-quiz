@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Question and Answer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+  <h1>Academic League Questions</h1>
+  <hr class="solid">
+  <p>Made by Will, Salvador, and Juzefh</p>
+  <p class="base">V2l0aCBoZWxwIGZyb20gTWF0aW4gYW5kIENoYXRHUFQ=</p>
+  <p class="disclaimer">Some answers may be marked as incorrect even though they are correct!</p>
+  <hr class="solid">
+  <p class="space"></p>
+  <p id="answerResult" class="answer-result"></p>
+  <p id="questionText" class="question"></p>
+  <form onsubmit="checkAnswer(); return false;" class="answer-form">
+    <label for="answer" class="answer-label">Answer:</label>
+    <input type="text" id="answer" name="answer" class="answer-input">
+    <input type="submit" value="Submit" class="submit-button" id="submit">
+  </form>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
