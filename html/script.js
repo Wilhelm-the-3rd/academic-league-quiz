@@ -1,72 +1,102 @@
 const questionText = document.getElementById("questionText");
 const answerInput = document.getElementById("answer");
 const answerResult = document.getElementById("answerResult");
-let questionsAndAnswers = [];
+let questionPool = new Map();
 
-function fetchQuestions() {
-    fetch('questions.txt')
+var currentQuestion;
+function parseFile(filePath) {
+
+    fetch(filePath)
         .then(response => response.text())
         .then(data => {
             const lines = data.split('\n').map(line => line.trim()); // Trim each line
-            for (let i = 0; i < lines.length; i += 2) {
-                if (lines[i] && lines[i + 1]) { // Ensure both question and answer exist
-                    questionsAndAnswers.push({
-                        question: lines[i],
-                        answer: lines[i + 1].toLowerCase()
-                    });
+
+            const resultMap = new Map();
+
+            lines.forEach(line => {
+                const regex = /^([^:]+):([^:]+):(\[.*]):([^:]+)$/;
+
+                const match = line.match(regex);
+
+                if (match) {
+                    const category = match[1].trim();
+                    const question = match[2].trim();
+                    const answers = JSON.parse(match[3].trim());
+                    const author = match[4].trim();
+
+                    resultMap.set(question, [answers, category, author]);
+                } else {
+                    console.error(`Invalid line format: ${line}`);
                 }
-            }
-            shuffleQuestions();
+            });
+
+            questionPool = resultMap;
+
             displayQuestion();
+
         })
         .catch(error => {
             console.error('Error fetching questions:', error);
         });
+
 }
 
-function shuffleQuestions() {
-    // Fisher-Yates shuffle algorithm for randomizing questions
-    for (let i = questionsAndAnswers.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [questionsAndAnswers[i], questionsAndAnswers[j]] = [questionsAndAnswers[j], questionsAndAnswers[i]];
+function getRandomQuestion() {
+    if (questionPool.size === 0) {
+        console.log('Map is empty.');
+        return null;
     }
+
+    const keysArray = Array.from(questionPool.keys());
+    const randomIndex = Math.floor(Math.random() * keysArray.length);
+    currentQuestion = keysArray[randomIndex];
+}
+
+function newQuestion() {
+
+    getRandomQuestion()
+    questionText.textContent = currentQuestion;
+    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[2];
+    document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
+
 }
 
 function checkAnswer() {
-    const userAnswer = answerInput.value.toLowerCase();
-    const currentQuestion = questionsAndAnswers[0];
-    const correctAnswer = currentQuestion.answer;
+    const userAnswer = answerInput.value.toUpperCase();
+    const acceptableAnswers = questionPool.get(currentQuestion)[0];
+    const visibleAnswer = acceptableAnswers[acceptableAnswers.length - 1]
 
-    if (userAnswer.includes(correctAnswer)) {
-        answerResult.textContent = "Correct answer!\n The answer was: " + correctAnswer;
+    if (acceptableAnswers.includes(userAnswer)) {
+        answerResult.textContent = "Correct answer!\n The answer was: " + visibleAnswer;
         answerResult.style.color = "green";
     } else {
-        answerResult.textContent = "Incorrect answer.\n The correct answer was: " + correctAnswer;
+        answerResult.textContent = "Incorrect answer.\n The correct answer was: " + visibleAnswer;
         answerResult.style.color = "red";
     }
 
     document.getElementById("submit").style.visibility = "hidden";
 
-    questionsAndAnswers.shift(); // Remove the answered question
+    questionPool.delete(currentQuestion);
 
-    if (questionsAndAnswers.length > 0) {
-        setTimeout(displayQuestion, 3500)
-    } else {
-        answerResult.textContent = "No more questions!";
-        answerResult.style.color = "black";
+    if (questionPool.size !== 0) {
+        setTimeout(displayQuestion, 3500);}
+    else {
+
+        setTimeout(() => {
+            answerResult.textContent = "No more questions!";
+            answerResult.style.color = "black";
+        }, 3500);
+
     }
 }
 
 function displayQuestion() {
     document.getElementById("submit").style.visibility = "visible";
 
-    if (questionsAndAnswers.length > 0) {
-        const currentQuestion = questionsAndAnswers[0].question;
-        questionText.textContent = currentQuestion;
+    newQuestion();
 
-        answerInput.value = ""; // Clear the input field for the next question
-        answerResult.textContent = ""; // Clear previous answer result
-    }
+    answerInput.value = "";
+    answerResult.textContent = "";
 }
 
-fetchQuestions();
+parseFile('questions/questions.txt');
