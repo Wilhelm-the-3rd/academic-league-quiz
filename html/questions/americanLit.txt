@@ -1,2 +1,9 @@
 American Literature:Give the name of the American novel about Esther Greenwood, a young woman whose talent and intelligence have brought her academic and career success, though she struggles with mental illness and suicidal tendencies.:["BELL JAR","THE BELL JAR"]:NCAL
-American Literature:During which war does the action of the novel “A Separate Peace” take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL
+American Literature:During which war does the action of the novel “A Separate Peace" take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL
+American Literature:Give the name of the Harlem Renaissance author who wrote the novel “Cane.":["TOOMER","JEAN TOOMER"]:NCAL
+American Literature:Name the Edgar Allan Poe poem that originally sold for fifteen dollars but has since been sold, in a first edition of his poetry, for over $200,000.:["RAVEN","THE RAVEN"]:NCAL
+American Literature:Name the author whose first novel was “A Soldier’s Pay.":["FAULKNER","WILLIAM FAULKNER","WILLIAM CUTHBERT FAULKNER"]:NCAL
+American Literature:Name the ambitious small town title chracter who easily falls in love in "Booth Tarkington's." 1921 novel.:["ALICE ADAMS","ADAMS","ALICE"]:NCAL
+American Literature:Name the daughter who falls in love with an Irish seaman in a "Eugene O'Neaill play.":["ANNA CHRISTIE","ANNA","CHRISTIE"]:NCAL
+American Literature:Name the beautiful maiden in a “Kingdom by the Sea” in an Edgar Allan Poe poem.":["ANNABEL LEE","ANNABEL","LEE"]:NCAL
+American Literature:Name the daughter of Bohemian immigrants who is the heroine in Willa Cather’s 1918 novel "My Antonia," which realistically portrays farm life in Nebraska.:["ANTONIA SHIMERDA","ANTONIA","SHIMERDA"]:NCAL

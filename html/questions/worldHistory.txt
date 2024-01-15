@@ -1,1 +1,3 @@
 World History:Who overthrew the Batista regime in Cuba in 1959?:["CASTRO","FIDEL CASTRO"]:NCAL
+World History:Give the name of the first prime minister of India.:["NEHRU", "JAWARHARLAL NEHRU"]:NCAL
+World History:What is the name of the airplane flown solo across the Atlantic by Charles Lindbergh?:["SPIRIT OF ST. LOUIS", "THE SPIRIT OF ST. LOUIS"]:NCAL

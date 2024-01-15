@@ -1,1 +1,4 @@
-Spanish:Spell, using the English alphabet, the one-word Spanish translation of the phrase “town square.”:["LA PLAZA","PLAZA","EL ZOCALO","ZOCALO","PLAZA OR ZOCALO","ZOCALO OR PLAZA","LA PLAZA OR EL ZOCALO"]:NCAL
+Spanish:Spell, using the English alphabet, the one-word Spanish translation of the phrase “town square.":["LA PLAZA","PLAZA","EL ZOCALO","ZOCALO","PLAZA OR ZOCALO","ZOCALO OR PLAZA","LA PLAZA OR EL ZOCALO"]:NCAL
+Spanish:Spell, using the English alphabet the 3-word Spanish phrase that means “See you later.":["HASTA LA VISTA", “HASTA LA PROXIMA"]:NCAL
+Spanish:Spell, using the English alphabet, the Spanish word that means “keyboard," as in ’Please use the keyboard totype your essay into the computer.":["TECLADO"]:NCAL
+Spanish:Spell, using the English alphabet, the Spanish noun that means “weight," as in “The weight of this book is 15 pounds.":["PESO"]:NCAL
