@@ -38,26 +38,6 @@ function parseFile(filePath) {
 
 }
 
-function getRandomQuestion() {
-    if (questionPool.size === 0) {
-        console.log('Map is empty.');
-        return null;
-    }
-
-    const keysArray = Array.from(questionPool.keys());
-    const randomIndex = Math.floor(Math.random() * keysArray.length);
-    currentQuestion = keysArray[randomIndex];
-}
-
-function newQuestion() {
-
-    getRandomQuestion()
-    questionText.textContent = currentQuestion;
-    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[2];
-    document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
-
-}
-
 function checkAnswer() {
     const userAnswer = answerInput.value.toUpperCase();
     const acceptableAnswers = questionPool.get(currentQuestion)[0];
@@ -85,6 +65,39 @@ function checkAnswer() {
         }, 3500);
 
     }
+}
+let i = 0;
+let speed = 50;
+function typingEffect() {
+    if (i < currentQuestion.length) {
+        questionText.innerHTML += currentQuestion.charAt(i);
+        i++;
+        setTimeout(typingEffect, speed);
+    }
+}
+
+function getRandomQuestion() {
+    if (questionPool.size === 0) {
+        console.log('Map is empty.');
+        return null;
+    }
+
+    const keysArray = Array.from(questionPool.keys());
+    const randomIndex = Math.floor(Math.random() * keysArray.length);
+    currentQuestion = keysArray[randomIndex];
+}
+
+function newQuestion() {
+
+    getRandomQuestion();
+
+
+    questionText.textContent = "";
+    i=0;
+    typingEffect();
+    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[2];
+    document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
+
 }
 
 function displayQuestion() {

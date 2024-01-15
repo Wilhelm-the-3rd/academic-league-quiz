@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Question and Answer</title>
+  <title>Academic League Quiz</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 <body>
 <div class="container">
@@ -25,8 +26,8 @@
   <p id="questionText" class="question"></p>
 
   <form onsubmit="checkAnswer(); return false;" class="answer-form">
-    <label for="answer" class="answer-label">Answer:</label>
-    <input type="text" id="answer" name="answer" class="answer-input">
+    <label for="answer" class="answer-label"></label>
+    <input type="text" placeholder="Answer..." id="answer" name="answer" class="answer-input">
     <input type="submit" value="Submit" class="submit-button" id="submit">
   </form>
 
@@ -118,7 +119,7 @@
   </div>
 </div>
 
-<script src="script.js"></script>
+<script src="scripts/script.js"></script>
 
 </body>
 </html>
