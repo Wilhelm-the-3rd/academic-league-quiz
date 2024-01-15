@@ -3,7 +3,8 @@ const answerInput = document.getElementById("answer");
 const answerResult = document.getElementById("answerResult");
 let questionPool = new Map();
 
-var currentQuestion;
+let currentQuestion;
+
 function parseFile(filePath) {
 
     fetch(filePath)

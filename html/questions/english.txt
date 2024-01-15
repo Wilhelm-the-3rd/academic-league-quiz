@@ -1,2 +1,3 @@
 English:Spell the grammar term for words with opposite meanings.:["ANTONYM","ANTONYMS"]:NCAL
 English:Give the literary term for the repetition of vowel sounds in a group of words close together.:["ASSONANCE"]:NCAL
+English:Name the simple subject in the sentence "Four-tusked mammoths are roaming the planet.":["MAMMOTHS"]:NCAL

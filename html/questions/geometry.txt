@@ -1,0 +1,1 @@
+Geometry:Give the geometry term for a polyhedron with 20 faces.:["ICOSAHEDRON"]:NCAL
