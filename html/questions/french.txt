@@ -1,0 +1,2 @@
+French:Spell, using the English alphabet, the 2-word French phrase that means “See you later.":["AU REVOIR", “A DEMAIN", “A BIENTOT"]:NCAL
+French:Spell, using the English alphabet, the French noun that means “weight," as in “The weight of this book is 15 pounds.":["POIDS"]:NCAL
