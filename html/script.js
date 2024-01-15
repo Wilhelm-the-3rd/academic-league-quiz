@@ -95,5 +95,76 @@ function displayQuestion() {
     answerResult.textContent = "";
 }
 
-parseFile('questions/geography.txt');
-parseFile('questions/currentEvents.txt');
+function clearQuestion() {
+    questionPool = new Map();
+
+    answerInput.value = "";
+    answerResult.textContent = "";
+
+}
+
+function updateQuestionPool() {
+    clearQuestion();
+
+    if (document.getElementById("us_history").checked) {
+        parseFile('questions/usHistory.txt');
+    }
+    if (document.getElementById("world_history").checked) {
+        parseFile('questions/worldHistory.txt');
+    }
+    if (document.getElementById("art_history").checked) {
+        parseFile('questions/artHistory.txt');
+    }
+    if (document.getElementById("geography").checked) {
+        parseFile('questions/geography.txt');
+    }
+    if (document.getElementById("mythology").checked) {
+        parseFile('questions/mythology.txt');
+    }
+
+    if (document.getElementById("calculus").checked) {
+        parseFile('questions/calculus.txt');
+    }
+    if (document.getElementById("trig").checked) {
+        parseFile('questions/trig.txt');
+    }
+    if (document.getElementById("algebra").checked) {
+        parseFile('questions/algebra.txt');
+    }
+    if (document.getElementById("geometry").checked) {
+        parseFile('questions/geometry.txt');
+    }
+
+    if (document.getElementById("chemistry").checked) {
+        parseFile('questions/chemistry.txt');
+    }
+    if (document.getElementById("physics").checked) {
+        parseFile('questions/physics.txt');
+    }
+    if (document.getElementById("biology").checked) {
+        parseFile('questions/biology.txt');
+    }
+    if (document.getElementById("earthSpaceScience").checked) {
+        parseFile('questions/earthSpaceScience.txt');
+    }
+
+    if (document.getElementById("englishLit").checked) {
+        parseFile('questions/englishLit.txt');
+    }
+    if (document.getElementById("americanLit").checked) {
+        parseFile('questions/americanLit.txt');
+    }
+    if (document.getElementById("english").checked) {
+        parseFile('questions/english.txt');
+    }
+    if (document.getElementById("spanish").checked) {
+        parseFile('questions/spanish.txt');
+    }
+    if (document.getElementById("french").checked) {
+        parseFile('questions/french.txt');
+    }
+
+    if (document.getElementById("currentEvents").checked) {
+        parseFile('questions/currentEvents.txt');
+    }
+}

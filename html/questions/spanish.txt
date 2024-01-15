@@ -1,0 +1,1 @@
+Spanish:Spell, using the English alphabet, the one-word Spanish translation of the phrase “town square.”:["LA PLAZA","PLAZA","EL ZOCALO","ZOCALO","PLAZA OR ZOCALO","ZOCALO OR PLAZA","LA PLAZA OR EL ZOCALO"]:NCAL

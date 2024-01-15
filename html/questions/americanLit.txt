@@ -1,0 +1,2 @@
+American Literature:Give the name of the American novel about Esther Greenwood, a young woman whose talent and intelligence have brought her academic and career success, though she struggles with mental illness and suicidal tendencies.:["BELL JAR","THE BELL JAR"]:NCAL
+American Literature:During which war does the action of the novel “A Separate Peace” take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL

@@ -1,0 +1,2 @@
+Biology:Give the biology term for the monomer components of proteins.:["AMINO ACID","AMINO ACIDS"]:NCAL
+Biology:Instead of seeds, what reproductive structure do ferns use?:["SPORES"]:NCAL

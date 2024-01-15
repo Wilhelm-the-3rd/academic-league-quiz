@@ -1,0 +1,2 @@
+English:Spell the grammar term for words with opposite meanings.:["ANTONYM","ANTONYMS"]:NCAL
+English:Give the literary term for the repetition of vowel sounds in a group of words close together.:["ASSONANCE"]:NCAL

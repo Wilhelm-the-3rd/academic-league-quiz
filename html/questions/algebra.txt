@@ -1,0 +1,3 @@
+Algebra:What is the algebra term for the second, or Y-component, or an ordered pair?:["ORDINATE"]:NCAL
+Algebra:What is the range of the natural logarithm function?:["ALL REAL","ALL REALS","ALL REAL NUMBER","ALL REAL NUMBERS"]:NCAL
+Algebra:What is the value of the determinant of the 2-by-2 matrix with 1st-row entries of 1 and 2 and 2nd-row entries of 2 and 3?:["NEGATIVE 1", "NEGATIVE ONE","- ONE", "- 1", "-1"]:NCAL
