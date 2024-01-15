@@ -11,8 +11,6 @@ function parseFile(filePath) {
         .then(data => {
             const lines = data.split('\n').map(line => line.trim()); // Trim each line
 
-            const resultMap = new Map();
-
             lines.forEach(line => {
                 const regex = /^([^:]+):([^:]+):(\[.*]):([^:]+)$/;
 
@@ -24,13 +22,11 @@ function parseFile(filePath) {
                     const answers = JSON.parse(match[3].trim());
                     const author = match[4].trim();
 
-                    resultMap.set(question, [answers, category, author]);
+                    questionPool.set(question, [answers, category, author]);
                 } else {
                     console.error(`Invalid line format: ${line}`);
                 }
             });
-
-            questionPool = resultMap;
 
             displayQuestion();
 
@@ -99,4 +95,5 @@ function displayQuestion() {
     answerResult.textContent = "";
 }
 
-parseFile('questions/questions.txt');
+parseFile('questions/geography.txt');
+parseFile('questions/currentEvents.txt');
