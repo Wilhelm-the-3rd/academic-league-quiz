@@ -182,3 +182,57 @@ function updateQuestionPool() {
         parseFile('questions/currentEvents.txt');
     }
 }
+
+document.getElementById("all").addEventListener("click", function(){
+
+    if (this.checked) {
+        document.getElementById("us_history").checked = true;
+        document.getElementById("world_history").checked = true;
+        document.getElementById("art_history").checked = true;
+        document.getElementById("geography").checked = true;
+        document.getElementById("mythology").checked = true;
+
+        document.getElementById("calculus").checked = true;
+        document.getElementById("algebra").checked = true;
+        document.getElementById("geometry").checked = true;
+        document.getElementById("trig").checked = true;
+
+        document.getElementById("chemistry").checked = true;
+        document.getElementById("physics").checked = true;
+        document.getElementById("biology").checked = true;
+        document.getElementById("earthSpaceScience").checked = true;
+
+        document.getElementById("english").checked = true;
+        document.getElementById("englishLit").checked = true;
+        document.getElementById("americanLit").checked = true;
+        document.getElementById("spanish").checked = true;
+        document.getElementById("french").checked = true;
+
+        document.getElementById("currentEvents").checked = true;
+    } else {
+        document.getElementById("us_history").checked = false;
+        document.getElementById("world_history").checked = false;
+        document.getElementById("art_history").checked = false;
+        document.getElementById("geography").checked = false;
+        document.getElementById("mythology").checked = false;
+
+        document.getElementById("calculus").checked = false;
+        document.getElementById("algebra").checked = false;
+        document.getElementById("geometry").checked = false;
+        document.getElementById("trig").checked = false;
+
+        document.getElementById("chemistry").checked = false;
+        document.getElementById("physics").checked = false;
+        document.getElementById("biology").checked = false;
+        document.getElementById("earthSpaceScience").checked = false;
+
+        document.getElementById("english").checked = false;
+        document.getElementById("englishLit").checked = false;
+        document.getElementById("americanLit").checked = false;
+        document.getElementById("spanish").checked = false;
+        document.getElementById("french").checked = false;
+
+        document.getElementById("currentEvents").checked = false;
+    }
+
+});
