@@ -5,6 +5,9 @@ let questionPool = new Map();
 
 let currentQuestion;
 
+let correct = 0;
+let wrong = 0;
+
 function parseFile(filePath) {
 
     fetch(filePath)
@@ -46,14 +49,18 @@ function checkAnswer() {
     if (acceptableAnswers.includes(userAnswer)) {
         answerResult.textContent = "Correct answer!\n The answer was: " + visibleAnswer;
         answerResult.style.color = "green";
+        correct++;
     } else {
         answerResult.textContent = "Incorrect answer.\n The correct answer was: " + visibleAnswer;
         answerResult.style.color = "red";
+        wrong++;
     }
 
     document.getElementById("submit").style.visibility = "hidden";
 
     questionPool.delete(currentQuestion);
+
+    document.getElementById("score").textContent = "Correct: "+ correct +" | Incorrect: " + wrong;
 
     if (questionPool.size !== 0) {
         setTimeout(displayQuestion, 3500);}
