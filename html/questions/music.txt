@@ -1,2 +1,2 @@
-Music:Give the nickname of Beethoven’s Third Symphony.:[”EROICA”]:NCAL
-Music:What is the full name of the man who is credited with the invention of the saxophone?:[”SAX”, "ADOLPHE SAX”]:NCAL
+Music:Give the nickname of Beethoven’s Third Symphony.:["EROICA"]:NCAL
+Music:What is the full name of the man who is credited with the invention of the saxophone?:["SAX", "ADOLPHE SAX"]:NCAL

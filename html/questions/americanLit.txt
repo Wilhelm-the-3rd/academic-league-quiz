@@ -1,8 +1,8 @@
 American Literature:Give the name of the American novel about Esther Greenwood, a young woman whose talent and intelligence have brought her academic and career success, though she struggles with mental illness and suicidal tendencies.:["BELL JAR","THE BELL JAR"]:NCAL
-American Literature:During which war does the action of the novel “A Separate Peace" take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL
-American Literature:Give the name of the Harlem Renaissance author who wrote the novel “Cane.":["TOOMER","JEAN TOOMER"]:NCAL
+American Literature:During which war does the action of the novel "A Separate Peace" take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL
+American Literature:Give the name of the Harlem Renaissance author who wrote the novel "Cane.":["TOOMER","JEAN TOOMER"]:NCAL
 American Literature:Name the Edgar Allan Poe poem that originally sold for fifteen dollars but has since been sold, in a first edition of his poetry, for over $200,000.:["RAVEN","THE RAVEN"]:NCAL
-American Literature:Name the author whose first novel was “A Soldier’s Pay.":["FAULKNER","WILLIAM FAULKNER","WILLIAM CUTHBERT FAULKNER"]:NCAL
+American Literature:Name the author whose first novel was "A Soldier’s Pay.":["FAULKNER","WILLIAM FAULKNER","WILLIAM CUTHBERT FAULKNER"]:NCAL
 American Literature:Name the dystopian novel in which the main character's wife's friends become angry after he reads them the poem "Dover Beach" by Matthew Arnold.:["FAHRENHEIT 451"]:Will
 American Literature:Name the American novel whose opening sentence is "Call me Ishmael.":["MOBY DICK"]:NCAL
 American Literature:Identify the American Author of the 1920 novel "The Age of Innocence.":["WHARTON","EDITH WHARTON", "EDITH NEWBOLD WHARTON", "EDIT NEWBOLD JONES WHARTON"]:NCAL
