@@ -1,5 +1,14 @@
 Chemistry:What phase of matter is commonly referred to as the fourth state of matter?:["PLASMA"]:NCAL
 Chemistry:Give the name of the chemical family which includes chlorine.:["HALOGEN"]:NCAL
 Chemistry:When the hydrogen of an acid is replaced by a metal, what specific type of compound results?:["SALT"]:NCAL
-Chemistry:What molecular shape is associated with "S-P-3-D-2" hybridization?:["OCTAHEDRAL", "SQUARE PLANAR BI-PYRAMIDAL"]:NCAL
+Chemistry:What molecular shape is associated with “S-P-3-D-2" hybridization?:["OCTAHEDRAL", “SQUARE PLANAR BI-PYRAMIDAL"]:NCAL
 Chemistry:By what measurement is mass divided to obtain density?:["VOLUME"]:NCAL
+Chemistry:Which metallic transition element has the highest melting-point?:["W","Tungsten"]:NCAL
+Chemistry:What is the chemical symbol for mercury?["HG"]:NCAL
+Chemistry:Name the sub-atomic particle the size of an electron, but with a positive charge.:["POSITRON","POSITRON?"]:NCAL
+Chemistry:Identify the rule from chemistry that states that for a given electron configuration, the term with maximum multiplicity has the lowest energy.:["HUND","HUNDS RULE","HUND'S RULE"]:NCAL
+Chemistry:Name the alloy of copper which gives its name to an age of history.:["BRONZE"]:NCAL
+Chemistry:How many electrons are found in the outermost energy shell of neutral halogens?:["7","SEVEN"]:NCAL
+Chemistry:What element is added to rubber during vulcanization?:["S", "SULFUR"]:NCAL
+Chemistry:Name the acid used in an automotive lead-acid storage battery.:["SULFURIC", "SULFURIC ACID"]:NCAL
+Chemistry:In the lowest-terms balanced equation for the combustion of benzene, what is the coefficient for carbon dioxide?:["12", "TWELVE"]:NCAL

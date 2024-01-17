@@ -1,3 +1,11 @@
-US History:Name the U.S. President who referred to the Supreme Court of his early presidency as the “horse and buggy” court.:["FDR",""ROOSEVELT", "FRANKLIN ROOSEVELT", "FRANKLIN DELANO ROOSEVELT"]:NCAL
+US History:Name the U.S. President who referred to the Supreme Court of his early presidency as the "horse and buggy" court.:["FDR","ROOSEVELT", "FRANKLIN ROOSEVELT", "FRANKLIN DELANO ROOSEVELT"]:NCAL
 US History:In which U.S. state did the Battle of Antietam occur?:["MARYLAND"]:NCAL
 US History:Which U.S. city was the location for the first Constitutional Convention?:["PHILADELPHIA", "PHILADELPHIA PENNSYLVANIA", "PHILADELPHIA, PENNSYLVANIA"]:NCAL
+US History:For which party did Strom Thurmond run for the U.S. Presidency in the election of 1948?:["STATES RIGHTS","STATE'S RIGHTS","STATES RIGHTS PARTY","STATES RIGHT'S PARTY","DIXIECRAT", "DIXIECRAT PARTY", "STATES RIGHT'S PARTY OR DIXIECRAT PARTY"]:NCAL
+US History:Who was the first U.S. President to serve in that office without being elected to either the Presidency or the Vice-Presidency?:["FORD","GERALD FORD"]:NCAL
+US History:Name Abraham Lincoln's opponent in a series of famous debates in 1858.:["DOUGLAS","STEPHEN DOUGLAS","SENATOR DOUGLAS","SENATOR STEPHEN DOUGLAS"]:NCAL
+US History:Give the name of the New-York-based portrait photographer who went into Civil War battlefields to document the conflict and continued to direct his staff even as his eyesight deteriorated.:["BRADY","MATHEW BRADY"]:NCAL
+US History:By what name was November 11th, the day we now celebrate as Veteran's Day, previously known?:["ARMISTICE DAY"]:NCAL
+US History:Name the last member of the Whig Party to hold the office of President of the United States.:["FILLMORE", "MILLARD FILLMORE"]
+US History:What event occurred in 1848 that caused the west coast of the United States to be settled before the plains region?:["THE DISCOVERY OF GOLD", "GOLD RUSH", "GOLD-RUSH", "THE GOLD RUSH"]:NCAL
+US History:Who was the commander of the Union forces at the Battle of Antietam?:["MCCLELLAN", "GEORGE MCCLELLAN", "GENERAL MCCLELLAN", "GENERAL GEORGE BRINTON MCCLELLAN"]:NCAL

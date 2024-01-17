@@ -1,0 +1,1 @@
+Physics:What is the scientific term for the rate of change in an object's velocity?["ACCELERATION"]:NCAL

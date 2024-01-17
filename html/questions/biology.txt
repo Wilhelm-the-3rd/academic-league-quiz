@@ -1,3 +1,9 @@
-Biology:Give the biology term for the monomer components of proteins.:["AMINO ACID", "AMINO ACIDS"]:NCAL
+Biology:Give the biology term for the monomer components of proteins.:["AMINO ACID", “AMINO ACIDS"]:NCAL
 Biology:Instead of seeds, what reproductive structure do ferns use?:["SPORES"]:NCAL
-Biology:Name the organelle, found in most eukaryotic cells, that was identified in 1897 by an Italian physician whose first name was Camillo.:["GOLGI BODY", "GOLGI APPARATUS"]:NCAL
+Biology:Name the organelle, found in most eukaryotic cells, that was identified in 1897 by an Italian physician whose first name was Camillo.:["GOLGI BODY", “GOLGI APPARATUS"]:NCAL
+Biology:Name the body part in which cones and rods are located.:["EYE","EYES","THE EYE","THE EYES"]:NCAL
+Biology:Give the name for the biological, semi-permeable structure that is made of organic molecules and controls movement through diffusion and osmosi.:["CELL MEMBRANE"]:NCAL
+Biology:In which organelle is adensine triphosphate primarily produced?:["MITOCHONDRION","MITOCHONDRIA"]:NCAL
+Biology:Give the biology term for animals which are primarily active at dawn or dusk.:["CREPUSCULAR"]:NCAL
+Biology:What two-word biology term describes genes that are carried on the X-chromosome.:["SEX LINKED", "SEX-LINKED"]:NCAL
+Biology:Name the organ of locomotion, connected to the water vascular system, in echinoderms.:["TUBE-FEET", "TUBE FEET", "PODIA", "TUBE FEET or PODIA"]:NCAL

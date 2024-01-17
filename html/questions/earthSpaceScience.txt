@@ -1,2 +1,5 @@
 Earth and Space Science:Which Greek letter is also the name for the deposition of sediments at the mouth of a river?:["DELTA"]:NCAL
 Earth and Space Science:Give the name of the largest satellite of the dwarf planet Pluto.:["CHARON"]:NCAL
+Earth and Space Science:Give the name of the only dwarf planet in our solar system whose orbit is smaller than Jupiter's.:["CERES","1 CERES"]:NCAL
+Earth and Space Science:Give the name of the first artificial satellite to orbit the earth.:["SPUTNIK"]:NCAL
+Earth and Space Science:Which planet in the solar system requires approximately 11.8 Earth years to travel around the Sun?:["JUPITER"]:NCAL

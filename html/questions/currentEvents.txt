@@ -7,3 +7,4 @@ Current Events:The US recently attacked an area of Yemen controlled by what mili
 Current Events:Two Navy SEALs recently went missing off the coast of which East African nation?:["SOMOLIA"]:Will
 Current Events:Governor Andy Beshear of which US state recently declared a state of emergency before winter storms?:["KENTUCKY"]:Will
 Current Events:Residents of Medina County are evacuating due to a recent chemical spill in which US state?:["OHIO"]:Will
+Current Events:A volcano erruption in this European country recently lead to an evacuation of the town of Grindavík.:["ICELAND"]:Will

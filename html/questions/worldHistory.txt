@@ -1,3 +1,10 @@
 World History:Who overthrew the Batista regime in Cuba in 1959?:["CASTRO","FIDEL CASTRO"]:NCAL
 World History:Give the name of the first prime minister of India.:["NEHRU", "JAWARHARLAL NEHRU"]:NCAL
 World History:What is the name of the airplane flown solo across the Atlantic by Charles Lindbergh?:["SPIRIT OF ST. LOUIS", "THE SPIRIT OF ST. LOUIS"]:NCAL
+World History:Name the South Vietnamese ruler who was assasinated in 1963.:["DIEM","NGO DINH DIEM"]:NCAL
+World History:Which European war ended the peace created by the Congress of Vienna?:["CRIMEAN","CRIMEAN WAR"]:NCAL
+World History:During the 17th century, which country was England's chief maritime rival?:["NETHERLANDS","THE NETHERLANDS"]:NCAL
+World History:What major religion did Mohandas Gandhi practice?:["HINDUISM"]:NCAL
+World History:Name the British-held country in which the Sepoy Rebellion occurred.:["INDIA", "REPUBLIC OF INDIA"]:NCAL
+World History:Name the famous prize won by Martin Luther King, Jr. in 1964.:["NOBEL PEACE", "NOBEL PEACE PRIZE"]:NCAL
+World History:Name the scientist who was offered the presidency of Israel in 1952 by David Ben-Gurion, though he declined the offer.:["EINSTEIN", "ALBERT EINSTEIN"]:NCAL

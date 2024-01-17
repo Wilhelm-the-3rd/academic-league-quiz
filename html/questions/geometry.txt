@@ -1,1 +1,3 @@
 Geometry:Give the geometry term for a polyhedron with 20 faces.:["ICOSAHEDRON"]:NCAL
+Geometry:In a regular polygon, what is the ratio of the measures of successive angles?:["1/1","1:1","1 TO 1"]:NCAL
+Geometry:What is the sum of the arc measures, in degrees, subtended by a central angle measuring 85 degrees and an inscribed angle of 85 degrees.:["225", "225 DEGREES"]:NCAL
