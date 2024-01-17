@@ -1,3 +1,3 @@
-Biology:Give the biology term for the monomer components of proteins.:["AMINO ACID", “AMINO ACIDS"]:NCAL
+Biology:Give the biology term for the monomer components of proteins.:["AMINO ACID", "AMINO ACIDS"]:NCAL
 Biology:Instead of seeds, what reproductive structure do ferns use?:["SPORES"]:NCAL
-Biology:Name the organelle, found in most eukaryotic cells, that was identified in 1897 by an Italian physician whose first name was Camillo.:["GOLGI BODY", “GOLGI APPARATUS"]:NCAL
+Biology:Name the organelle, found in most eukaryotic cells, that was identified in 1897 by an Italian physician whose first name was Camillo.:["GOLGI BODY", "GOLGI APPARATUS"]:NCAL

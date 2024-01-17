@@ -1,5 +1,5 @@
 Chemistry:What phase of matter is commonly referred to as the fourth state of matter?:["PLASMA"]:NCAL
 Chemistry:Give the name of the chemical family which includes chlorine.:["HALOGEN"]:NCAL
 Chemistry:When the hydrogen of an acid is replaced by a metal, what specific type of compound results?:["SALT"]:NCAL
-Chemistry:What molecular shape is associated with “S-P-3-D-2" hybridization?:["OCTAHEDRAL", “SQUARE PLANAR BI-PYRAMIDAL"]:NCAL
+Chemistry:What molecular shape is associated with "S-P-3-D-2" hybridization?:["OCTAHEDRAL", "SQUARE PLANAR BI-PYRAMIDAL"]:NCAL
 Chemistry:By what measurement is mass divided to obtain density?:["VOLUME"]:NCAL
