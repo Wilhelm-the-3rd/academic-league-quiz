@@ -18,6 +18,7 @@
   <p>Made by Will, Salvador, and Juzefh</p>
   <hr class="solid">
 
+  <p id="loaded-questions">0 Questions Loaded...</p>
   <p id="score">Correct: 0 | Incorrect: 0</p>
   <p class="base">V2l0aCBoZWxwIGZyb20gTWF0aW4gYW5kIENoYXRHUFQ=</p>
 
@@ -34,6 +35,10 @@
 
   <p id="questionCategory"></p>
   <p id="questionAuthor"></p>
+
+  <form onsubmit="next(); return false;" class="next-q">
+    <input type="submit" value="Next Question" class="submit-button" id="next-button">
+  </form>
 
 </div>
 

@@ -1,8 +1,8 @@
 Algebra:What is the algebra term for the second, or Y-component, or an ordered pair?:["ORDINATE"]:NCAL
 Algebra:What is the range of the natural logarithm function?:["ALL REAL","ALL REALS","ALL REAL NUMBER","ALL REAL NUMBERS"]:NCAL
 Algebra:What is the value of the determinant of the 2-by-2 matrix with 1st-row entries of 1 and 2 and 2nd-row entries of 2 and 3?:["NEGATIVE 1", "NEGATIVE ONE","- ONE", "- 1", "-1"]:NCAL
-Algebra:How many positive real roots does the following function have: F of X equals X to the fourth power plus 6 X squared plus 5 X plus 9?:["NO","NONE"]:NCAL
-Algebra:Give either of the 2 values that must be restricted from the domain of the equation the quantity "9 X plus 5” over the quantity "X minus 2” is equal to the quantity "X plus 9” over 3 X.:[”X=0”,”X EQUALS 0”,”X = 0”,”0”,”X=2”,”X EQUALS 2”,”X = 2”,”2”,"x=2 or x=0"]:NCAL
+Algebra:How many positive real roots does the following function have; F of X equals X to the fourth power plus 6 X squared plus 5 X plus 9?:["NO","NONE"]:NCAL
+Algebra:Give either of the 2 values that must be restricted from the domain of the equation the quantity "9 X plus 5" over the quantity "X minus 2" is equal to the quantity "X plus 9" over 3 X.:["X=0","X EQUALS 0","X = 0","0","X=2","X EQUALS 2","X = 2","2","x=2 or x=0"]:NCAL
 Algebra:Using principal values, find the square root of the term 169 times X to the fourth power?:["13X SQUARED","13 X SQUARED","13 X^2","13X TO THE SECOND", "13X TO THE SECOND POWER", "13 X TO THE SECOND POWER","13X^2"]:NCAL
 Algebra:In mathematics, for what values of B is the exponential function, Y equals B to the X, an increasing function?:["B GREATER THAN 1", "ALL"]:NCAL
 Algebra:Find the value of X if the reciprocal of X is equal to the sum of the reciprocals of 2 and 3.:["6 OVER 5", "6/5", "SIX-FIFTHS", "SIX FIFTHS", "X EQUALS 6 OVER 5", "X EQUALS 6/5", "X EQUALS SIX-FIFTHS", "X EQUALS SIX FIFTHS"]:NCAL

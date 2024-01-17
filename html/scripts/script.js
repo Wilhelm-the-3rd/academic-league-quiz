@@ -32,7 +32,10 @@ function parseFile(filePath) {
                 }
             });
 
+            console.log(questionPool.size);
             displayQuestion();
+
+            document.getElementById("loaded-questions").textContent = questionPool.size + " Questions Loaded...";
 
         })
         .catch(error => {
@@ -57,22 +60,23 @@ function checkAnswer() {
     }
 
     document.getElementById("submit").style.visibility = "hidden";
-
-    questionPool.delete(currentQuestion);
-
     document.getElementById("score").textContent = "Correct: "+ correct +" | Incorrect: " + wrong;
 
-    if (questionPool.size !== 0) {
-        setTimeout(displayQuestion, 3500);}
-    else {
+}
 
-        setTimeout(() => {
-            answerResult.textContent = "No more questions!";
-            answerResult.style.color = "black";
-        }, 3500);
+function next() {
+    questionPool.delete(currentQuestion);
+
+    if (questionPool.size !== 0) {
+        displayQuestion();
+    } else {
+
+        answerResult.textContent = "No more questions!";
+        answerResult.style.color = "black";
 
     }
 }
+
 let i = 0;
 let speed = 50;
 function typingEffect() {
@@ -188,6 +192,7 @@ function updateQuestionPool() {
     if (document.getElementById("currentEvents").checked) {
         parseFile('questions/currentEvents.txt');
     }
+
 }
 
 document.getElementById("all").addEventListener("click", function(){
