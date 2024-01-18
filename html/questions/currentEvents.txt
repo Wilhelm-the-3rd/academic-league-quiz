@@ -8,3 +8,6 @@ Current Events:Two Navy SEALs recently went missing off the coast of which East 
 Current Events:Governor Andy Beshear of which US state recently declared a state of emergency before winter storms?:["KENTUCKY"]:Will
 Current Events:Residents of Medina County are evacuating due to a recent chemical spill in which US state?:["OHIO"]:Will
 Current Events:A volcano erruption in this European country recently lead to an evacuation of the town of Grindavík.:["ICELAND"]:Will
+Current Events:Name the US State in which a mother recently claimed a SWAT team used a flashbang grenade around her baby sending it to the hospital?:["OHIO"]:Will
+Current Events:Following the abdication of Queen Margarethe, Denmark crowned a new king. Name the new king of Denmark.:["Frederick","King Frederick"]:Will
+Current Events:34 people are reported dead following a mudslide in which South American country?:["Colombia"]:Will

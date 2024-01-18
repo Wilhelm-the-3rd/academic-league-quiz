@@ -18,3 +18,12 @@ American Literature:Name the town in which Babbitt lives in the Sinclair Lewis n
 American Literature:In which Robert Frost poem does the narrator meet his neighbor once a year to do repair work?:["MENDING WALL"]:NCAL
 American Literature:In "The Great Gatsby," who kills Gatsby?:["GEORGE", "WILSON", "GEORGE WILSON"]:NCAL
 American Literature:Name the American author whose works include "Imperial Woman," "The Living Reed," "Dragon Seed," and the Pulitzer Prize winning "The Good Earth.":["PEARL BUCK", "BUCK"]:NCAL
+American Literature:Give the name of the author who wrote "Call of the Wild.":["JACK LONDON","LONDON"]:Chambers
+American Literature:Name the American author whose works include "The Catcher in the Rye," "Franny and Zooey," and "Raise High the Roof Beam, Carpenter's Seymour and Introduction":["J.D. SALINGER","SALINGER","JEROME DAVID SALINGER"]:Chambers
+American Literature:Give the name of the author who wrote various books such as "The 500 Hats of our Tholomew Cubans," "The Butter Battle Book," and "Yertle the Turtle.":["DR.SEUSS"]:Chambers
+American Literature:Name the author who wrote the book "The Jungle.":["UPTON SINCLAIR ","SINCLAIR"]:Chambers
+American Literature:Name the author who whose works include "Tortilla Flap","Doubious Battle," and "Canary Row":["JOHN STEINBECK","STEINBECK"]:Chambers
+American Literature:Give the name of the American author who wrote "Cat's Cradle" and "Slaughterhouse-Five":["KURT VONNEGUT","VONNEGUT"]:Chambers
+American Literature:Name the American author whose works include "Stuart Little," "The Trumpet of the Swan," and "Charlotte Webb":["ELWYN BROOKS WHITE","WHITE","E.B White"]:Chambers
+American Literature:Give the name of the author who wrote various books such as "Native Son","Black Boy," and "The Outsiders":["R.N WRIGHT","RICHARD NATHANIEL WRIGHT","WRIGHT"]:Chambers
+American Literature:Name the American author whose works include "The Crucible," "Death of a Salesman," and "All My Sons":["ARTHUR MILLER","MILLER"]:Chambers
