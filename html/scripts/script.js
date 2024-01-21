@@ -132,13 +132,13 @@ function updateQuestionPool() {
     clearQuestion();
 
     if (document.getElementById("us_history").checked) {
-        parseFile('questions/usHistory.txt');
+        parseFile('questions/us_history.txt');
     }
     if (document.getElementById("world_history").checked) {
-        parseFile('questions/worldHistory.txt');
+        parseFile('questions/world_history.txt');
     }
     if (document.getElementById("art_history").checked) {
-        parseFile('questions/artHistory.txt');
+        parseFile('questions/art_history.txt');
     }
     if (document.getElementById("geography").checked) {
         parseFile('questions/geography.txt');
@@ -151,7 +151,7 @@ function updateQuestionPool() {
         parseFile('questions/calculus.txt');
     }
     if (document.getElementById("trig").checked) {
-        parseFile('questions/trig.txt');
+        parseFile('questions/trigonometry.txt');
     }
     if (document.getElementById("algebra").checked) {
         parseFile('questions/algebra.txt');
@@ -170,14 +170,14 @@ function updateQuestionPool() {
         parseFile('questions/biology.txt');
     }
     if (document.getElementById("earthSpaceScience").checked) {
-        parseFile('questions/earthSpaceScience.txt');
+        parseFile('questions/earth_space_science.txt');
     }
 
     if (document.getElementById("englishLit").checked) {
         parseFile('questions/englishLit.txt');
     }
     if (document.getElementById("americanLit").checked) {
-        parseFile('questions/americanLit.txt');
+        parseFile('questions/american_literature.txt');
     }
     if (document.getElementById("english").checked) {
         parseFile('questions/english.txt');
@@ -190,7 +190,7 @@ function updateQuestionPool() {
     }
 
     if (document.getElementById("currentEvents").checked) {
-        parseFile('questions/currentEvents.txt');
+        parseFile('questions/current_events.txt');
     }
 
 }
