@@ -32,9 +32,6 @@ function parseFile(filePath) {
                 }
             });
 
-            console.log(questionPool.size);
-            displayQuestion();
-
             document.getElementById("loaded-questions").textContent = questionPool.size + " Questions Loaded...";
 
         })

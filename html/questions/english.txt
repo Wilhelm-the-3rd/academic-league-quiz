@@ -1,6 +1,6 @@
 English:Spell the grammar term for words with opposite meanings.:["ANTONYM","ANTONYMS"]:NCAL
 English:Give the literary term for the repetition of vowel sounds in a group of words close together.:["ASSONANCE"]:NCAL
 English:Name the simple subject in the sentence "Four-tusked mammoths are roaming the planet.":["MAMMOTHS"]:NCAL
-English:Name the literary device used the following sentence: "His thundering shout could split rocks.":["HYPERBOLE"]:NCAL
+English:Name the literary device used the following sentence. "His thundering shout could split rocks.":["HYPERBOLE"]:NCAL
 English:Give the literary term for words such as "buzz," "sizzle," "slam," and "hiss.":["ΟΝΟΜΑΤΟΡΟΕΙΑ"]:NCAL
-English:Identify the noun clause in the following sentence: "That she was talented was obvious.":["THAT SHE WAS TALENTED"]:NCAL
+English:Identify the noun clause in the following sentence. "That she was talented was obvious.":["THAT SHE WAS TALENTED"]:NCAL

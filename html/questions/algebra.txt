@@ -1,7 +1,7 @@
 Algebra:What is the algebra term for the second, or Y-component, or an ordered pair?:["ORDINATE"]:NCAL
 Algebra:What is the range of the natural logarithm function?:["ALL REAL","ALL REALS","ALL REAL NUMBER","ALL REAL NUMBERS"]:NCAL
 Algebra:What is the value of the determinant of the 2-by-2 matrix with 1st-row entries of 1 and 2 and 2nd-row entries of 2 and 3?:["NEGATIVE 1", "NEGATIVE ONE","- ONE", "- 1", "-1"]:NCAL
-Algebra:How many positive real roots does the following function have: F of X equals X to the fourth power plus 6 X squared plus 5 X plus 9?:["NO","NONE"]:NCAL
+Algebra:How many positive real roots does the following function have. F of X equals X to the fourth power plus 6 X squared plus 5 X plus 9?:["NO","NONE"]:NCAL
 Algebra:Give either of the 2 values that must be restricted from the domain of the equation the quantity "9 X plus 5" over the quantity "X minus 2" is equal to the quantity "X plus 9" over 3 X.:["X=0","X EQUALS 0","X = 0","0","X=2","X EQUALS 2","X = 2","2","x=2 or x=0"]:NCAL
 Algebra:Using principal values, find the square root of the term 169 times X to the fourth power?:["13X SQUARED","13 X SQUARED","13 X^2","13X TO THE SECOND", "13X TO THE SECOND POWER", "13 X TO THE SECOND POWER","13X^2"]:NCAL
 Algebra:In mathematics, for what values of B is the exponential function, Y equals B to the X, an increasing function?:["B GREATER THAN 1", "ALL"]:NCAL
@@ -16,7 +16,7 @@ Algebra:Name the most general set of numbers, each of which can be expressed in 
 Algebra:Simplify the product of X to the 6th power and X to the 8th power.:["X TO THE POWER OF 14", "X^14", "X TO THE 14TH"]:NCAL
 Algebra:How many real roots does the equation 2 X squared plus X plus 1 equals zero have?:["NONE", "ZERO", "NONE OR ZERO"]:NCAL
 Algebra:When drawing randomly and without replacement from a bag containing 4 consecutively numbered objects, what is the probability that the objects are in ascending numerie order?:["1/24", "ONE OVER 24", "ONE OVER TWENTY-FOUR", "ONE OVER TWENTY FOUR", "ONE-TWENTY-FOURTH", "1 OVER 24 or ONE-TWENTY-FOURTH"]:NCAL
-Algebra:State, in HK form, the equation of a circle with a radius of 5 having its center at the point "negative 3 comma 4.":["(quantity) "X PLUS 3" SQUARED PLUS (quantity) "Y MINUS 4" SQUARED EQUALS 25"]:NCAL
+Algebra:State, in HK form, the equation of a circle with a radius of 5 having its center at the point "negative 3 comma 4.":["(quantity) 'X PLUS 3' SQUARED PLUS (quantity) 'Y MINUS 4' SQUARED EQUALS 25"]:NCAL
 Algebra:What is the value of the geometric mean of 6 and 8?:["FOUR TIMES ROOT 3", "4 * ROOT 3", "4 (times) ROOT 3"]:NCAL
 Algebra:What is the value of the combination 4 choose 2?:["6", "SIX"]:NCAL
 Algebra:If the absolute value of X equals 5, name either of the 2 possible values of X:["5", "FIVE", "-5", "negative 5", "5 or NEGATIVE 5"]:NCAL

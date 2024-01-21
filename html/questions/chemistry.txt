@@ -4,7 +4,7 @@ Chemistry:When the hydrogen of an acid is replaced by a metal, what specific typ
 Chemistry:What molecular shape is associated with "S-P-3-D-2" hybridization?:["OCTAHEDRAL", "SQUARE PLANAR BI-PYRAMIDAL"]:NCAL
 Chemistry:By what measurement is mass divided to obtain density?:["VOLUME"]:NCAL
 Chemistry:Which metallic transition element has the highest melting-point?:["W","Tungsten"]:NCAL
-Chemistry:What is the chemical symbol for mercury?["HG"]:NCAL
+Chemistry:What is the chemical symbol for mercury?:["HG"]:NCAL
 Chemistry:Name the sub-atomic particle the size of an electron, but with a positive charge.:["POSITRON","POSITRON?"]:NCAL
 Chemistry:Identify the rule from chemistry that states that for a given electron configuration, the term with maximum multiplicity has the lowest energy.:["HUND","HUNDS RULE","HUND'S RULE"]:NCAL
 Chemistry:Name the alloy of copper which gives its name to an age of history.:["BRONZE"]:NCAL

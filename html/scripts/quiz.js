@@ -12,7 +12,7 @@ const questionText = getElement("questionText")
     , resultText = getElement("answerResult")
 
 // Question Variables
-let questionPool = new Map()
+const questionPool = new Map()
 let currentQuestion;
 
 // Statistics Variables
@@ -38,6 +38,10 @@ function parseQuestionFile(fileName) {
                 } else { console.error('Invalid line format: ' + line); }
             });
 
+            //console.log("Question Pool Size: " + questionPool.size)
+            //nextQuestion()
+        
+
         getElement("loaded-questions").textContent = questionPool.size + " Questions Loaded..."
 
         }).catch(error => { console.error('Error fetching questions:', error); });
@@ -48,7 +52,7 @@ function getRandomQuestion() {
     const keysArray = Array.from(questionPool.keys());
     const randomIndex = Math.floor(Math.random() * keysArray.length);
 
-    return keysArray[randomIndex];
+    currentQuestion = keysArray[randomIndex];
 }
 
 function typingEffect(char) {
@@ -86,7 +90,7 @@ function nextQuestion() {
     answerInputText.value = ""
     resultText.textContent = ""
 
-    currentQuestion = getRandomQuestion()
+    getRandomQuestion()
     displayQuestion()
 
 }
@@ -114,15 +118,22 @@ function checkAnswer() {
 }
 
 function clearQuestion() {
-    questionPool = new Map()
+    for (let index in questionPool.keys()) {
+        console.log(index)
+        questionPool.delete(index);
+    }
 
     questionText.textContent = ""
 
     answerInputText.value = ""
     resultText.textContent = ""
 }
-
+let i = 0;
 function updateQuestionPool() {
+    i++
+    if (i === 3) {
+        location.reload();
+    }
     clearQuestion();
 
     if (getElement("us_history").checked) {
@@ -168,7 +179,7 @@ function updateQuestionPool() {
     }
 
     if (getElement("englishLit").checked) {
-        parseQuestionFile('englishLit.txt');
+        parseQuestionFile('english_literature.txt');
     }
     if (getElement("americanLit").checked) {
         parseQuestionFile('american_literature.txt');
@@ -188,7 +199,7 @@ function updateQuestionPool() {
     }
 
     console.log("Question Pool Size: " + questionPool.size)
-    displayQuestion()
+    nextQuestion()
 
 }
 

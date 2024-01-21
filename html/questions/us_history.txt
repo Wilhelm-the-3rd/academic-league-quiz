@@ -6,6 +6,6 @@ US History:Who was the first U.S. President to serve in that office without bein
 US History:Name Abraham Lincoln's opponent in a series of famous debates in 1858.:["DOUGLAS","STEPHEN DOUGLAS","SENATOR DOUGLAS","SENATOR STEPHEN DOUGLAS"]:NCAL
 US History:Give the name of the New-York-based portrait photographer who went into Civil War battlefields to document the conflict and continued to direct his staff even as his eyesight deteriorated.:["BRADY","MATHEW BRADY"]:NCAL
 US History:By what name was November 11th, the day we now celebrate as Veteran's Day, previously known?:["ARMISTICE DAY"]:NCAL
-US History:Name the last member of the Whig Party to hold the office of President of the United States.:["FILLMORE", "MILLARD FILLMORE"]
+US History:Name the last member of the Whig Party to hold the office of President of the United States.:["FILLMORE", "MILLARD FILLMORE"]:NCAL
 US History:What event occurred in 1848 that caused the west coast of the United States to be settled before the plains region?:["THE DISCOVERY OF GOLD", "GOLD RUSH", "GOLD-RUSH", "THE GOLD RUSH"]:NCAL
 US History:Who was the commander of the Union forces at the Battle of Antietam?:["MCCLELLAN", "GEORGE MCCLELLAN", "GENERAL MCCLELLAN", "GENERAL GEORGE BRINTON MCCLELLAN"]:NCAL
