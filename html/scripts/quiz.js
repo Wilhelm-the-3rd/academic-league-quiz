@@ -52,6 +52,7 @@ function getRandomQuestion() {
     const keysArray = Array.from(questionPool.keys());
     const randomIndex = Math.floor(Math.random() * keysArray.length);
 
+    console.log("Random: index: " + randomIndex + " key: " + keysArray[randomIndex])
     currentQuestion = keysArray[randomIndex];
 }
 
@@ -75,7 +76,9 @@ function displayQuestion() {
 }
 
 function nextQuestion() {
-    questionPool.delete(currentQuestion)
+    if (currentQuestion != null) {
+        questionPool.delete(currentQuestion)
+    }
 
     if (questionPool.size === 0) {
         resultText.textContent = "No more questions!"
@@ -128,12 +131,8 @@ function clearQuestion() {
     answerInputText.value = ""
     resultText.textContent = ""
 }
-let i = 0;
+
 function updateQuestionPool() {
-    i++
-    if (i === 3) {
-        location.reload();
-    }
     clearQuestion();
 
     if (getElement("us_history").checked) {

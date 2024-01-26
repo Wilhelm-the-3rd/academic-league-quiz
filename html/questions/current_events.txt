@@ -1,13 +1,14 @@
 Current Events:France’s new head of state is also their youngest ever. Name this newest French Prime Minister.:["ATTAL","GABRIEL ATTAL"]:Will
 Current Events:The Government of Israel is facing accusations of genocide in the ICJ made by this African country.:["SOUTH AFRICA"]:Will
-Current Events:Which South American country is currently facing a yearly inflation rate of over 200%?:["ARGENTINA"]:Will
-Current Events:Following deadly riots in this country’s capital, this country recently declared a national state of emergency.:["PAPUA NEW GUINEA"]:Will
 Current Events:Taiwan’s Green Party recently won the presidential election. Name this newly elected president of Taiwan.:["CHING-TE","LAI CHING-TE"]:Will
-Current Events:The US recently attacked an area of Yemen controlled by what militant group?:["HOUTHI", "HOUTHI MOVEMENT"]:Will
-Current Events:Two Navy SEALs recently went missing off the coast of which East African nation?:["SOMOLIA"]:Will
-Current Events:Governor Andy Beshear of which US state recently declared a state of emergency before winter storms?:["KENTUCKY"]:Will
-Current Events:Residents of Medina County are evacuating due to a recent chemical spill in which US state?:["OHIO"]:Will
 Current Events:A volcano erruption in this European country recently lead to an evacuation of the town of Grindavík.:["ICELAND"]:Will
-Current Events:Name the US State in which a mother recently claimed a SWAT team used a flashbang grenade around her baby sending it to the hospital?:["OHIO"]:Will
-Current Events:Following the abdication of Queen Margarethe, Denmark crowned a new king. Name the new king of Denmark.:["Frederick","King Frederick"]:Will
-Current Events:34 people are reported dead following a mudslide in which South American country?:["Colombia"]:Will
+Current Events:Which former California governer was recently detained at a Munich airport after failing to report the sale of a watch?:["SCHWARZENEGGER","ARNOLD SCHWARZENEGGER"]:Will
+Current Events:Which asian country recently landed on the moon?:["JAPAN"]:Freshman
+Current Events:What head coach did the Chargers just hire?:["HARBOUGH"]:Freshman
+Current Events:In which city will the 2nd highest clock tower be constructed?:["DUBAI"]:Freshman
+Current Events:An earthquake of a 7.0 magnitude recently occurred in which East Asian country?:["CHINA"]:Freshman
+Current Events:Which US Governor recently disobeyed federal authority over the border-crisis in his state?:["ABBOTT","GREG ABBOTT"]:Will
+Current Events:Name this country whose captial's chief of police was recently charged with negligence following a disaster that occurred late last year?:["SOUTH KOREA"]:Freshman
+Current Events:Which Republican candidate most recently dropped out of the presidental election?:["DESANTIS", "RON DESANTIS"]:Freshman
+Current Events:Which Republican candidate won the Iowa Republican Caucus?:["TRUMP","DONALD TRUMP"]:Freshman
+Current Events:Which Republican candidate won the New Hampshire Republican primary?:["TRUMP","DONALD TRUMP"]:Freshman
