@@ -7,3 +7,15 @@ Biology:In which organelle is adensine triphosphate primarily produced?:["MITOCH
 Biology:Give the biology term for animals which are primarily active at dawn or dusk.:["CREPUSCULAR"]:NCAL
 Biology:What two-word biology term describes genes that are carried on the X-chromosome.:["SEX LINKED", "SEX-LINKED"]:NCAL
 Biology:Name the organ of locomotion, connected to the water vascular system, in echinoderms.:["TUBE-FEET", "TUBE FEET", "PODIA", "TUBE FEET or PODIA"]:NCAL
+Biology:What is the unique shape of the chloroplasts of the alga, Spirogya.:["SPIRAL","HELIX"]:NCAL
+Biology:Name the organ of the body containing the myocardium, the endocardium, and the pericandium.:["HEART"]:NCAL
+Biology:What is the antaomical name for the bone of the upper leg?:["FEMUR"]:NCAL
+Biology:In addition to chloroplasts, what structure is found in plant cells but not in animal cells?:["CELL WALL"]:NCAL
+Biology:What is the term for a sudden, spontaneous multiplication of the number of chromosomes in an otherwirse normal cell?:["AUTHOPOLYPLOIDY"]:NCAL
+Biology:When cancer spreads to a new tissue, what is the name of the process?:["METASTASIS"]:NCAL
+Biology:What is the name given to the group of unicellular organisms that don't contain a nucleus.:["PROKARYOTE"]:NCAL
+Biology:Give the two-word name, sometimes hyphenated, for the type of environmental factors which includes disease, competition, parasites, and food.:["DENSITY-DEPENDENT", "DENSITY DEPENDENT"]:NCAL
+Biology:What is the name any nucleic acid sequence that is removed by splicing in the formation of mature RNA?:["INTRON"]:NCAL
+Biology:Name the structure through which of the exchange of gases between a lead and its environment takes place.:["STOMATA"]:NCAL
+Biology:Name the system of tubes in a cell which provides a channel from the nucleus through the cytoplasm to the outside of the cell by the way of cell membrane.:["ENDOPLASMIC RETICULUM"]:NCAL
+Biology:Name the scientist responsible for the development of vaccines for rabies and anthrax.:["LOUS PASTEUR", "PASTEUR"]:NCAL

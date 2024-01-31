@@ -32,6 +32,9 @@ function parseFile(filePath) {
                 }
             });
 
+            console.log(questionPool.size);
+            displayQuestion();
+
             document.getElementById("loaded-questions").textContent = questionPool.size + " Questions Loaded...";
 
         })
@@ -61,7 +64,7 @@ function checkAnswer() {
 
 }
 
-function next() {
+function nextQuestion() {
     questionPool.delete(currentQuestion);
 
     if (questionPool.size !== 0) {
@@ -143,6 +146,9 @@ function updateQuestionPool() {
     if (document.getElementById("mythology").checked) {
         parseFile('questions/mythology.txt');
     }
+    if (document.getElementById("music").checked) {
+        parseFile('questions/music.txt');
+    }
 
     if (document.getElementById("calculus").checked) {
         parseFile('questions/calculus.txt');
@@ -171,7 +177,7 @@ function updateQuestionPool() {
     }
 
     if (document.getElementById("englishLit").checked) {
-        parseFile('questions/englishLit.txt');
+        parseFile('questions/english_literature.txt');
     }
     if (document.getElementById("americanLit").checked) {
         parseFile('questions/american_literature.txt');
@@ -200,6 +206,7 @@ document.getElementById("all").addEventListener("click", function(){
         document.getElementById("art_history").checked = true;
         document.getElementById("geography").checked = true;
         document.getElementById("mythology").checked = true;
+        document.getElementById("music").checked = true;
 
         document.getElementById("calculus").checked = true;
         document.getElementById("algebra").checked = true;
@@ -224,6 +231,7 @@ document.getElementById("all").addEventListener("click", function(){
         document.getElementById("art_history").checked = false;
         document.getElementById("geography").checked = false;
         document.getElementById("mythology").checked = false;
+        document.getElementById("music").checked = false;
 
         document.getElementById("calculus").checked = false;
         document.getElementById("algebra").checked = false;

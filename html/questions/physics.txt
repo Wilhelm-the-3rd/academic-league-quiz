@@ -1,1 +1,2 @@
 Physics:What is the scientific term for the rate of change in an object's velocity?:["ACCELERATION"]:NCAL
+Physics:Give thr physics term for an object's tendency to move in a straight line until a forc changes its direction.:["INERTIA"]:NCAL

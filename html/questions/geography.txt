@@ -3,4 +3,13 @@ Geography:How many official languages are recognized in Switzerland?:["4","FOUR"
 Geography:Give the name of the hiking trail that passes through 14 states from Georgia to Maine in the eastern mountains of the United States.:["APPALACHIAN","APPALACHIAN TRAIL"]:NCAL
 Geography:What is the capital of North Korea?:["PYONGYANG"]:NCAL
 Geography:Which city in Greece would you be visiting if you were having your picture taken near the Arch of Hadrian?:["ATHENS"]:NCAL
-Geography:Identify either of the countries which comprise the Jutland Peninsula:["Germany", "Denmark", "Kingdom of Denmark", "Federal Republic of Germany", "GERMANY OR DENMARK"]:NCAL
+Geography:Identify either of the countries which comprise the Jutland Peninsula:["GERMANY", "DENMARK", "KINGDOM OF DENMARK", "FEDERAL REPBULIC OF GERMANY", "GERMANY OR DENMARK"]:NCAL
+Geography:Give the name of the installation in Kentucky that is the site of the U.S. Gold Depository.:["FORT KNOX"]:NCAL
+Geography:Name the mountain range that seperates Europe from Asia.:["URALS"]:NCAL
+Geography:Name the tiny European country nestled high in the Pyrenees between France and Spain.:["ANDORRA"]:NCAL
+Geography:In which world capital is the "Forbidden City" located?:["PEKING", "BEIJING"]:NCAL
+Geography:Name the country which contains the easternmost point of the South American continent.:["BRAZIL"]:NCAL
+Geography:Name the capital of Cambodia.:["PHNOM PENH"]:NCAL
+Geography:What's the world's smallest independent country by area?:["VATICAN"]:NCAL
+Geography:In which southern hemisphere country are the Canterbury Plains located?:["NEW ZEALAND"]:NCAL
+Geography:Name the country whose inhabitants are soemtimes referred to as "Kiwis.":["NEW ZEALAND"]:NCAL

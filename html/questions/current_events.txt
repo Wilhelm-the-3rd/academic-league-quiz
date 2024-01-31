@@ -12,3 +12,4 @@ Current Events:Name this country whose captial's chief of police was recently ch
 Current Events:Which Republican candidate most recently dropped out of the presidental election?:["DESANTIS", "RON DESANTIS"]:Freshman
 Current Events:Which Republican candidate won the Iowa Republican Caucus?:["TRUMP","DONALD TRUMP"]:Freshman
 Current Events:Which Republican candidate won the New Hampshire Republican primary?:["TRUMP","DONALD TRUMP"]:Freshman
+Current Events:Which 2 teams are playing for the Super Bowl?:["SAN FRANCISCO 49ERS AND KANSAS CITY CHIEFS"]:BRADY

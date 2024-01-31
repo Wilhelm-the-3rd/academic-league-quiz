@@ -1,2 +1,5 @@
 Mythology:Name the mythological master of the dog Argos.:["ODYSSEUS"]:NCAL
 Mythology:Name the mythical enchantress who turned the crew of Odysseus into swine.:["CIRCE"]:NCAL
+Mythology:Name the god who according to Greek mythology, gave birth to his own son after sewing him into his thigh in order to finish the gestation period.:["ZEUS"]:NCAL
+Mythology:Name the father of Icarus in the Greek Myth.:["DAEDALUS"]:NCAL
+Mythology:Name the characrter in Greek Mythology who opened a box and freed all the world's troubles.:["PANDORA"]:NCAL
