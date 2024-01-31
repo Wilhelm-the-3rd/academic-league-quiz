@@ -23,12 +23,17 @@ function parseFile(filePath) {
                 if (match) {
                     const category = match[1].trim();
                     const question = match[2].trim();
+                    try {
+                        JSON.parse(match[3].trim());
+                    } catch (e) {
+                        console.log(e + ": " + line + " in " + filePath)
+                    }
                     const answers = JSON.parse(match[3].trim());
                     const author = match[4].trim();
 
                     questionPool.set(question, [answers, category, author]);
                 } else {
-                    console.error(`Invalid line format: ${line}`);
+                    console.error('Invalid line format: ' + line + ' in ' + filePath);
                 }
             });
 
