@@ -112,7 +112,7 @@ function newQuestion() {
     questionText.textContent = "";
     i=0;
     typingEffect();
-    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[3];
+    document.getElementById("questionAuthor").textContent = "Author: " + questionPool.get(currentQuestion)[3];
     document.getElementById("questionDifficulty").textContent = "Difficulty: " + questionPool.get(currentQuestion)[2];
     document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
 
