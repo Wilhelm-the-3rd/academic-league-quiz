@@ -1,5 +1,5 @@
-Art History:Name the Renaissance artist who painted “Primavera” located in the Uffizi Gallery in Florence.:["BOTTICELLI","SANDRO BOTTICELLI"]:NCAL
-Art History:Name the museum which houses the following paintings.  Klee’s “Twittering Machine,” Rousseau’s “Sleeping Beauty,” and Mondrian’s “Broadway Boogie Woogie.”:["MUSEUM OF MODERN ART", "MUSEUM OF MODERN ART, NEW YORK"]:NCAL
+Art History:Name the Renaissance artist who painted "Primavera” located in the Uffizi Gallery in Florence.:["BOTTICELLI","SANDRO BOTTICELLI"]:NCAL
+Art History:Name the museum which houses the following paintings.  Klee’s "Twittering Machine,” Rousseau’s "Sleeping Beauty,” and Mondrian’s "Broadway Boogie Woogie.”:["MUSEUM OF MODERN ART", "MUSEUM OF MODERN ART, NEW YORK"]:NCAL
 Art History:Name the Edgar Allan Poe poem that originally sold for fifteen dollars but has since been sold, in a first edition of his poetry, for over $200,000.:["THE RAVEN", "RAVEN"]:NCAL
 Art History:Who composed the religious works, "Passion According to St. Matthew" and "Passion According to St John?":["BACH","JOHANN BACH","JOHANN SEBASTIAN BACH"]:NCAL
 Art History:What is the art term for a painting made on wet plaster?:["FRESCO"]:NCAL
