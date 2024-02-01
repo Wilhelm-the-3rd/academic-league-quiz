@@ -1,0 +1,9 @@
+French:Spell, using the English alphabet, the 2-word French phrase that means "See you later.":["AU REVOIR", "A DEMAIN", "A BIENTOT"]:NCAL
+French:Spell, using the English alphabet, the French noun that means "weight," as in "The weight of this book is 15 pounds.":["LE POIDS"]:NCAL
+French:In French grammar, with what three letters must a verb end if it follows the preposition "e-n?”:["ANT", "A-N-T"]:NCAL
+French:Spell, using the English alphabet, the French word for the noun "arms," as in "My arms aren't long enough to touch my toes.":["BRAS","LES BRAS"]:NCAL
+French:What is the one-word scientific term, a French word, that describes any glacially formed accumulation of unconsolidated debris?:["MORAINE"]:NCAL
+French:Spell, using the English alphabet, the French masculine, singular form of the adjective meaning "sad", as in "The sad boy is crying.":["TRISTE"]:NCAL
+French:Spell, using the English alphabet, the French word that means "book.":["LIVRE", "BOUQUIN"]:NCAL
+French:Spell, using the English alphabet, the French word that means "pedestrian.":["PIETON", "PIETONNE"]:NCAL
+French:Spell, using the English alphabet, the French word that means "paperclips.":["TROMBONE"]:NCAL

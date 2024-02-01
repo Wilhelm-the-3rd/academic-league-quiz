@@ -1,0 +1,7 @@
+Geometry:Give the geometry term for a polyhedron with 20 faces.:["ICOSAHEDRON"]:NCAL
+Geometry:In a regular polygon, what is the ratio of the measures of successive angles?:["1/1","1:1","1 TO 1"]:NCAL
+Geometry:What is the sum of the arc measures, in degrees, subtended by a central angle measuring 85 degrees and an inscribed angle of 85 degrees.:["225", "225 DEGREES"]:NCAL
+Geometry:What is the perimeter, in yards, of an equilateral decagon whose side measures 6 feet?:["20 YARDS", "20"]:NCAL
+Geometry:What is area of equilateral triangle with perimeter of twenty-four?:["SIXTEEN ROOT THREE"]:NCAL
+Geometry:What is the diameter of the circle whose equation is X squared plus Y squared equals 9?:["6","SIX"]:NCAL
+Geometry:Identify only positive integer which is equal to its cube.:["1","ONE"]:NCAL

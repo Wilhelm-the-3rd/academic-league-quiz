@@ -16,7 +16,7 @@ function parseFile(filePath) {
             const lines = data.split('\n').map(line => line.trim()); // Trim each line
 
             lines.forEach(line => {
-                const regex = /^([^:]+):([^:]+):(\[.*]):([^:]+)$/;
+                const regex = /^([^:]+);([^:]+);(\[.*]);([^:]+);([^:]+)$/;
 
                 const match = line.match(regex);
 
@@ -29,9 +29,10 @@ function parseFile(filePath) {
                         console.log(e + ": " + line + " in " + filePath)
                     }
                     const answers = JSON.parse(match[3].trim());
-                    const author = match[4].trim();
+                    const level = match[4].trim();
+                    const author = match[5].trim();
 
-                    questionPool.set(question, [answers, category, author]);
+                    questionPool.set(question, [answers, category, level, author]);
                 } else {
                     console.error('Invalid line format: ' + line + ' in ' + filePath);
                 }
@@ -111,7 +112,8 @@ function newQuestion() {
     questionText.textContent = "";
     i=0;
     typingEffect();
-    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[2];
+    document.getElementById("questionAuthor").textContent = "Question Author: " + questionPool.get(currentQuestion)[3];
+    document.getElementById("questionDifficulty").textContent = "Difficulty: " + questionPool.get(currentQuestion)[2];
     document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
 
 }

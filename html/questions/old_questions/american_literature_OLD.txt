@@ -1,0 +1,45 @@
+American Literature:Give the name of the American novel about Esther Greenwood, a young woman whose talent and intelligence have brought her academic and career success, though she struggles with mental illness and suicidal tendencies.:["BELL JAR","THE BELL JAR"]:NCAL
+American Literature:During which war does the action of the novel “A Separate Peace" take place?:["WWII","WW2","WORLD WAR II","WORLD WAR TWO"]:NCAL
+American Literature:Give the name of the Harlem Renaissance author who wrote the novel “Cane.":["TOOMER","JEAN TOOMER"]:NCAL
+American Literature:Name the Edgar Allan Poe poem that originally sold for fifteen dollars but has since been sold, in a first edition of his poetry, for over $200,000.:["RAVEN","THE RAVEN"]:NCAL
+American Literature:Name the author whose first novel was “A Soldier’s Pay.":["FAULKNER","WILLIAM FAULKNER","WILLIAM CUTHBERT FAULKNER"]:NCAL
+American Literature:Name the dystopian novel in which the main character's wife's friends become angry after he reads them the poem "Dover Beach" by Matthew Arnold.:["FAHRENHEIT 451"]:Will
+American Literature:Name the American novel whose opening sentence is "Call me Ishmael.":["MOBY DICK"]:NCAL
+American Literature:Identify the American Author of the 1920 novel "The Age of Innocence.":["WHARTON","EDITH WHARTON", "EDITH NEWBOLD WHARTON", "EDIT NEWBOLD JONES WHARTON"]:NCAL
+American Literature:What sarcastic term for the post-Civil War era was coined by Mark Twain and Charles Dudley Warner in their jointly-authored 1873 book?:["GILDED AGE"]:NCAL
+American Literature:Name the California county that was home to the celebrated frog in Mark Twain's story.:["CALAVERAS","CALAVERAS COUNTY"]:NCAL
+American Literature:Give the name of the author of the American novel "The Human Comedy.":["SAROYAN","WILLIAM SAROYAN"]:NCAL
+American Literature:Identify the type of tree mentioned in the first line of the poem "The Village Blacksmith.":["CHESTNUT","CHESTNUT TREE"]:NCAL
+American Literature:What was the pseudonym of William S. Porter?:["O HENRY","O. HENRY"]:NCAL
+American Literature:Give the name of the spectacle which is central to Ernest Hemingway's "Death in the Afternoon.":["BULLFIGHTING"]:NCAL
+American Literature:Which U.S. state is the setting for William Faulkner's "The Sound and the Fury?":["MISSISSIPPI"]:NCAL
+American Literature:Give the name of the American poet who wrote "The Valley of Unrest.":["POE", "EDGAR ALLEN POE"]:NCAL
+American Literature:Name the town in which Babbitt lives in the Sinclair Lewis novel.:["ZENITH"]:NCAL
+American Literature:In which Robert Frost poem does the narrator meet his neighbor once a year to do repair work?:["MENDING WALL"]:NCAL
+American Literature:In "The Great Gatsby," who kills Gatsby?:["GEORGE", "WILSON", "GEORGE WILSON"]:NCAL
+American Literature:Name the American author whose works include "Imperial Woman," "The Living Reed," "Dragon Seed," and the Pulitzer Prize winning "The Good Earth.":["PEARL BUCK", "BUCK"]:NCAL
+American Literature:Give the name of the author who wrote "Call of the Wild.":["JACK LONDON","LONDON"]:Chambers
+American Literature:Name the American author whose works include "The Catcher in the Rye," "Franny and Zooey," and "Raise High the Roof Beam, Carpenter's Seymour and Introduction":["J.D. SALINGER","SALINGER","JEROME DAVID SALINGER"]:Chambers
+American Literature:Name the American author whose works include "The 500 Hats of our Tholomew Cubans," "The Butter Battle Book," and "Yertle the Turtle.":["DR.SEUSS","DR SEUSS", "SEUSS"]:Chambers
+American Literature:Name the author who wrote the book "The Jungle.":["UPTON SINCLAIR ","SINCLAIR"]:Chambers
+American Literature:Name the author who whose works include "Tortilla Flap","Doubious Battle," and "Canary Row":["JOHN STEINBECK","STEINBECK"]:Chambers
+American Literature:Name the author whose works include "Cat's Cradle" and "Slaughterhouse-Five":["KURT VONNEGUT","VONNEGUT"]:Chambers
+American Literature:Name the author whose works include "Stuart Little," "The Trumpet of the Swan," and "Charlotte Webb":["ELWYN BROOKS WHITE","WHITE","E.B WHITE"]:Chambers
+American Literature:Name the author whose works include "Native Son","Black Boy," and "The Outsiders":["R.N WRIGHT","RICHARD NATHANIEL WRIGHT","WRIGHT"]:Chambers
+American Literature:Name the author whose works include "The Crucible," "Death of a Salesman," and "All My Sons":["ARTHUR MILLER","MILLER"]:Chambers
+American Literature:In "Of Mice and Men," name either of the 2 hallucinations seen by Lennie after he runs away from the ranch.:["RABBIT", "AUNT CLARA","GIANT RABBIT"]:NCAL
+American Literature:Who wrote the novels."To the Lighthouse" and "Mrs.Dalloway":["VIRGINIA WOOLF","WOOLf"]:NCAL
+American Literature:Name the author of the plays "Barefoot in the Park" and "The Odd Couple.":["NEIL SIMON","SIMON"]:NCAL
+American Literature:Name the Broadway musical by Frank Loesser whose colorful characters include Sky Masterson, Miss Adelaide, Nathan Detroit, Harry the Horse, and a missionary, Miss Sarah Brown.:["GUYS AND DOLLS"]:NCAL
+American Literature:In "The Great Gatsby," who killed Gatsby?:["MR. WILSON"]:NCAL
+American Literature:Name the Ernest Lawrence Thayer poem which contains the line,"There is no joy in Mudville.":["CASEY AT THE BAT"]:NCAL
+American Literature:Give the name of Edward Albee's first full-length play.:["WHO'S AFRAID OF VIRGNIA WOOLF"]:NCAL
+American Literature:In which essay by Emerson does he describe an American ideal education that is founded first in a study of nature?:["THE AMERICAN SCHOLAR"]:NCAL
+American Literature:Name the poet who wrote the poem entitled "Chicago.":["CARL SANDBURG", "SANDBURG"]:NCAL
+American Literature:Give the name of the poem that Robert Frost read at John F. Kennedy's presidential inauguration in 1961.:["THE GIFT OUTRIGHT"]:NCAL
+American Literature:Name the John Steinbeck novel that revolves arounf a father, Adam Trask, attempting to raise his two sons in Salinas, California.:["EAST OF EDEN"]:NCAL
+American Literature:Who wrote the short story "A & P?":["JOHN UPDIKE", "UPDIKE"]:NCAL
+American Literature:What, according to Langston Hughes, dries up like a raisin in the sun?:["A DREAM DEFERRED"]:NCAL
+American Literature:Who wrote the poem "Stopping by Woods on a Snowy Evening?":["ROBERT FROST", "FROST"]:NCAL
+American Literature:Identify the business magnate who wrote the article "The Gospel of Wealth" in 1889.:["ANDREW CARNEGIE", "CARNEGIE"]:NCAL
+American Literature:In the story by Herman Melville, from what speech defect does Billy Budd suffer?:["STUTTERING"]:NCAL

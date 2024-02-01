@@ -1,24 +1,24 @@
-Chemistry:What phase of matter is commonly referred to as the fourth state of matter?:["PLASMA"]:NCAL
-Chemistry:Give the name of the chemical family which includes chlorine.:["HALOGEN"]:NCAL
-Chemistry:When the hydrogen of an acid is replaced by a metal, what specific type of compound results?:["SALT"]:NCAL
-Chemistry:What molecular shape is associated with "S-P-3-D-2" hybridization?:["OCTAHEDRAL", "SQUARE PLANAR BI-PYRAMIDAL", "OCTAHEDRAL"]:NCAL
-Chemistry:By what measurement is mass divided to obtain density?:["VOLUME"]:NCAL
-Chemistry:Which metallic transition element has the highest melting-point?:["W","Tungsten"]:NCAL
-Chemistry:What is the chemical symbol for mercury?:["HG"]:NCAL
-Chemistry:Name the sub-atomic particle the size of an electron, but with a positive charge.:["POSITRON","POSITRON?"]:NCAL
-Chemistry:Identify the rule from chemistry that states that for a given electron configuration, the term with maximum multiplicity has the lowest energy.:["HUND","HUNDS RULE","HUND'S RULE"]:NCAL
-Chemistry:Name the alloy of copper which gives its name to an age of history.:["BRONZE"]:NCAL
-Chemistry:How many electrons are found in the outermost energy shell of neutral halogens?:["7","SEVEN"]:NCAL
-Chemistry:What element is added to rubber during vulcanization?:["S", "SULFUR"]:NCAL
-Chemistry:Name the acid used in an automotive lead-acid storage battery.:["SULFURIC", "SULFURIC ACID"]:NCAL
-Chemistry:In the lowest-terms balanced equation for the combustion of benzene, what is the coefficient for carbon dioxide?:["12", "TWELVE"]:NCAL
-Chemistry:How many grams of water can be heted by one degree Celsius by one calorie of heat?:["ONE","1"]:NCAL
-Chemistry:What is the chemical name for rust?:["FERRIC OXIDE","FE2O3","FE-TWO O-THREE"]:NCAL
-Chemistry:What substance is formed by the combination of gasoline and napthenic and palmatic acids?:["NAPALM"]:NCAL
-Chemistry:What is the chemical fonnula for dinitrogen tetroxide?:["N2O4"]:NCAL
-Chemistry:What chemical compound inside kernel of popcorn make it "pop" when it is heated?:["WATER", "H2O"]:NCAL
-Chemistry:In electrochemistry, what is the term for a gain of electrons?:["REDUCTION"]:NCAL
-Chemistry:Name the type of chemical bond formed by the transfer electrons from one atom to another.:["IONIC BOND"]:NCAL
-Chemistry:Give the chemistry term for the number moles of dissolved solute that a liter of solution contains.:["MOLARITY"]:NCAL
-Chemistry:Name the element which comprises four percent of the Earth's crust and two percent of the human body by mass.:["CALCIUM"]:NCAL
-Chemistry:In chemistry, how many different "f" sub-orbitals are there.:["7", "SEVEN"]:NCAL
+Chemistry;What phase of matter is commonly referred to as the fourth state of matter?;["PLASMA"];Junior Varsity;NCAL
+Chemistry;Give the name of the chemical family which includes chlorine.;["HALOGEN"];Junior Varsity;NCAL
+Chemistry;When the hydrogen of an acid is replaced by a metal, what specific type of compound results?;["SALT"];Junior Varsity;NCAL
+Chemistry;What molecular shape is associated with "S-P-3-D-2" hybridization?;["OCTAHEDRAL", "SQUARE PLANAR BI-PYRAMIDAL", "OCTAHEDRAL"];Junior Varsity;NCAL
+Chemistry;By what measurement is mass divided to obtain density?;["VOLUME"];Junior Varsity;NCAL
+Chemistry;Which metallic transition element has the highest melting-point?;["W","Tungsten"];Junior Varsity;NCAL
+Chemistry;What is the chemical symbol for mercury?;["HG"];Junior Varsity;NCAL
+Chemistry;Name the sub-atomic particle the size of an electron, but with a positive charge.;["POSITRON","POSITRON?"];Junior Varsity;NCAL
+Chemistry;Identify the rule from chemistry that states that for a given electron configuration, the term with maximum multiplicity has the lowest energy.;["HUND","HUNDS RULE","HUND'S RULE"];Junior Varsity;NCAL
+Chemistry;Name the alloy of copper which gives its name to an age of history.;["BRONZE"];Junior Varsity;NCAL
+Chemistry;How many electrons are found in the outermost energy shell of neutral halogens?;["7","SEVEN"];Junior Varsity;NCAL
+Chemistry;What element is added to rubber during vulcanization?;["S", "SULFUR"];Junior Varsity;NCAL
+Chemistry;Name the acid used in an automotive lead-acid storage battery.;["SULFURIC", "SULFURIC ACID"];Junior Varsity;NCAL
+Chemistry;In the lowest-terms balanced equation for the combustion of benzene, what is the coefficient for carbon dioxide?;["12", "TWELVE"];Junior Varsity;NCAL
+Chemistry;How many grams of water can be heted by one degree Celsius by one calorie of heat?;["ONE","1"];Junior Varsity;NCAL
+Chemistry;What is the chemical name for rust?;["FERRIC OXIDE","FE2O3","FE-TWO O-THREE"];Junior Varsity;NCAL
+Chemistry;What substance is formed by the combination of gasoline and napthenic and palmatic acids?;["NAPALM"];Junior Varsity;NCAL
+Chemistry;What is the chemical fonnula for dinitrogen tetroxide?;["N2O4"];Junior Varsity;NCAL
+Chemistry;What chemical compound inside kernel of popcorn make it "pop" when it is heated?;["WATER", "H2O"];Junior Varsity;NCAL
+Chemistry;In electrochemistry, what is the term for a gain of electrons?;["REDUCTION"];Junior Varsity;NCAL
+Chemistry;Name the type of chemical bond formed by the transfer electrons from one atom to another.;["IONIC BOND"];Junior Varsity;NCAL
+Chemistry;Give the chemistry term for the number moles of dissolved solute that a liter of solution contains.;["MOLARITY"];Junior Varsity;NCAL
+Chemistry;Name the element which comprises four percent of the Earth's crust and two percent of the human body by mass.;["CALCIUM"];Junior Varsity;NCAL
+Chemistry;In chemistry, how many different "f" sub-orbitals are there.;["7", "SEVEN"];Junior Varsity;NCAL

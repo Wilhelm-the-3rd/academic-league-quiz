@@ -1,0 +1,43 @@
+Algebra:What is the algebra term for the second, or Y-component, or an ordered pair?:["ORDINATE"]:NCAL
+Algebra:What is the range of the natural logarithm function?:["ALL REAL","ALL REALS","ALL REAL NUMBER","ALL REAL NUMBERS"]:NCAL
+Algebra:What is the value of the determinant of the 2-by-2 matrix with 1st-row entries of 1 and 2 and 2nd-row entries of 2 and 3?:["NEGATIVE 1", "NEGATIVE ONE","- ONE", "- 1", "-1"]:NCAL
+Algebra:How many positive real roots does the following function have. F of X equals X to the fourth power plus 6 X squared plus 5 X plus 9?:["NO","NONE", "0"]:NCAL
+Algebra:Give either of the 2 values that must be restricted from the domain of the equation the quantity “9 X plus 5" over the quantity “X minus 2" is equal to the quantity “X plus 9" over 3 X.:["X=0","X EQUALS 0","X = 0","0","X=2","X EQUALS 2","X = 2","2","x=2 or x=0"]:NCAL
+Algebra:Using principal values, find the square root of the term 169 times X to the fourth power?:["13X SQUARED","13 X SQUARED","13 X^2","13X TO THE SECOND", "13X TO THE SECOND POWER", "13 X TO THE SECOND POWER","13X^2"]:NCAL
+Algebra:In mathematics, for what values of B is the exponential function, Y equals B to the X, an increasing function?:["B GREATER THAN 1", "ALL"]:NCAL
+Algebra:Find the value of X if the reciprocal of X is equal to the sum of the reciprocals of 2 and 3.:["6 OVER 5", "6/5", "SIX-FIFTHS", "SIX FIFTHS", "X EQUALS 6 OVER 5", "X EQUALS 6/5", "X EQUALS SIX-FIFTHS", "X EQUALS SIX FIFTHS"]:NCAL
+Algebra:Find the integer value of X that solves the equation X cubed minus 1 equals zero.:["1","ONE","X EQUALS 1", "X EQUALS ONE"]:NCAL
+Algebra:What is the maximum number of times that the graph of a parabola can intersect the X-axis?:["2","TWO"]:NCAL
+Algebra:Find the arithmetic mean of 35 and 17.:["26","TWENTY SIX","TWENTY-SIX"]:NCAL
+Algebra:How many three-member committees may be formed from a group of six people?:["20","TWENTY"]:NCAL
+Algebra:What is the value of i to the eighth power?:["1", "ONE"]:NCAL
+Algebra:What is the value of X squared minus 1 when X equals 5?:["24","TWENTY FOUR","TWENTY-FOUR"]:NCAL
+Algebra:Name the most general set of numbers, each of which can be expressed in the form "A plus BI," where A and B are real numbers and "I" represents the square root of negative one.:["COMPLEX", "COMPLEX NUMBERS"]:NCAL
+Algebra:Simplify the product of X to the 6th power and X to the 8th power.:["X TO THE POWER OF 14", "X^14", "X TO THE 14TH"]:NCAL
+Algebra:How many real roots does the equation 2 X squared plus X plus 1 equals zero have?:["NONE", "ZERO","0", "NONE OR ZERO"]:NCAL
+Algebra:When drawing randomly and without replacement from a bag containing 4 consecutively numbered objects, what is the probability that the objects are in ascending numeral order?:["1/24", "ONE OVER 24", "ONE OVER TWENTY-FOUR", "ONE OVER TWENTY FOUR", "ONE-TWENTY-FOURTH", "1 OVER 24 or ONE-TWENTY-FOURTH"]:NCAL
+Algebra:State, in HK form, the equation of a circle with a radius of 5 having its center at the point "negative 3 comma 4.":["(quantity) X PLUS 3 SQUARED PLUS (quantity) Y MINUS 4 SQUARED EQUALS 25"]:NCAL
+Algebra:What is the value of the geometric mean of 6 and 8?:["FOUR TIMES ROOT 3", "4 * ROOT 3", "4 ROOT 3"]:NCAL
+Algebra:What is the value of the combination 4 choose 2?:["6", "SIX"]:NCAL
+Algebra:If the absolute value of X equals 5, name either of the 2 possible values of X:["5", "FIVE", "-5", "NEGATIVE 5", "5 or NEGATIVE 5"]:NCAL
+Algebra:What is the monomial whose square is nine times the fourth power of Y?:["NEGATIVE THREE (times) Y SQUARED","-3x^y"]:NCAL
+Algebra:How many unique seating arrangements of seven people at a round table are possible?:["720"]:NCAL
+Algebra:Convert seventy-five radians to degrees.:["FIVE TWELFTHS PI","FIVE PI OVER TWELVE"]:NCAL
+Algebra:What is the average speed, in miles per hour, of a car that takes 3 hours to travel 13 5 miles?:["45", "45 MILES PER HOUR"]:NCAL
+Algebra:Identify the only point with integer coordinates that lies on the line that is defined by the equation X times root 2 plus Y times root 3 equals.:["0,0","(0,0)","ORIGIN","THE ORIGIN"]:NCAL
+Algebra:What is the value of "five point zero three" times ten to the third power in standard notation?:["5030"]:NCAL
+Algebra:Identify the type of conic defined by the following equation. two X squared minus six Y squared equals twenty-four.:["HYPERBOLA"]:NCAL
+Algebra:Give either the two values that must be restricted from the domain of the equation, the quantity "eight X plus five" over the quantity "X minus two" is equal to the quantity "X plus nine" over three X.:["ZERO", "TWO", "0", "2"]:NCAL
+Algebra:What is the name given to the locus of points in a plane such that the absolute value of the difference of the distances from each of the two fixed points in the plane is constant?:["HYPERBOLA"]:NCAL
+Algebra:How many different handshakes would occur among four people introducing themselves to each other?:["6", "SIX"]:NCAL
+Algebra:Using principal values, find the square root of the term, 169 times X to the fourth power?:["13 X SQUARED", "13 X TO THE SECOND POWER"]:NCAL
+Algebra:Compute the product of 4 to the negative second power and the square root of 4.:["ONE EIGHTH", "1 OVER 8", "1/8"]:NCAL
+Algebra:What is the value of X in the equation, 3 to the "X plus 1" power equals one-ninth?:["NEGATIVE 3", "-3"]:NCAL
+Algebra:Name the smallest prime number greater than 37.:["41", "FORTY-ONE"]:NCAL
+Algebra:What is the value of 16 to the three-fourths power?:["8", "EIGHT"]:NCAL
+Algebra:What is the mathematical term for a number which is superscripted above a base, indicating a particular number of factors of that base?:["EXPONENT"]:NCAL
+Algebra:What is the length of time, in years, for seven-eights of a radioactive compound to decay if its half-life is eight years?:["24"]:NCAL
+Algebra:Give the coordinates of the point through which the graphs of all exponential functions with a coefficient of one pass.:["ZERO ONE", "ZERO COMMA ONE", "0,1", "(0,1)"]:NCAL
+Algebra:Name the type of conic section represented by the equation X squared plus Y squared minus 10 X plus 8 Y plus 5 equals zero.:["CIRCLE"]:NCAL
+Algebra:A fair coin is flipped 3 times. What is the probability that heads appears at least once?:["7 OVER 8", "SEVEN-EIGHTHS"]:NCAL
+Algebra:How many elements are in the intersection of the set containing the even positive integers and the set containing the positive multiples of 5 which are less than 40?:["3"]:NCAL

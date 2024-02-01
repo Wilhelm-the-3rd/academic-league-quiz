@@ -1,0 +1,1 @@
+Calculus:Find the derivative, with respect to X, of the expression 2 to the 5 X power.:["2^5X*5LN(2)"]:NCAL

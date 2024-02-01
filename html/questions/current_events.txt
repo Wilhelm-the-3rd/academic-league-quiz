@@ -1,15 +1,19 @@
-Current Events:France’s new head of state is also their youngest ever. Name this newest French Prime Minister.:["ATTAL","GABRIEL ATTAL"]:Will
-Current Events:The Government of Israel is facing accusations of genocide in the ICJ made by this African country.:["SOUTH AFRICA"]:Will
-Current Events:Taiwan’s Green Party recently won the presidential election. Name this newly elected president of Taiwan.:["CHING-TE","LAI CHING-TE"]:Will
-Current Events:A volcano erruption in this European country recently lead to an evacuation of the town of Grindavík.:["ICELAND"]:Will
-Current Events:Which former California governer was recently detained at a Munich airport after failing to report the sale of a watch?:["SCHWARZENEGGER","ARNOLD SCHWARZENEGGER"]:Will
-Current Events:Which asian country recently landed on the moon?:["JAPAN"]:Freshman
-Current Events:What head coach did the Chargers just hire?:["HARBOUGH"]:Freshman
-Current Events:In which city will the 2nd highest clock tower be constructed?:["DUBAI"]:Freshman
-Current Events:An earthquake of a 7.0 magnitude recently occurred in which East Asian country?:["CHINA"]:Freshman
-Current Events:Which US Governor recently disobeyed federal authority over the border-crisis in his state?:["ABBOTT","GREG ABBOTT"]:Will
-Current Events:Name this country whose captial's chief of police was recently charged with negligence following a disaster that occurred late last year?:["SOUTH KOREA"]:Freshman
-Current Events:Which Republican candidate most recently dropped out of the presidental election?:["DESANTIS", "RON DESANTIS"]:Freshman
-Current Events:Which Republican candidate won the Iowa Republican Caucus?:["TRUMP","DONALD TRUMP"]:Freshman
-Current Events:Which Republican candidate won the New Hampshire Republican primary?:["TRUMP","DONALD TRUMP"]:Freshman
-Current Events:Which 2 teams are playing for the Super Bowl?:["SAN FRANCISCO 49ERS AND KANSAS CITY CHIEFS"]:BRADY
+Current Events;France’s new head of state is also their youngest ever. Name this newest French Prime Minister.;["ATTAL","GABRIEL ATTAL"];NA;Will
+Current Events;The Government of Israel is facing accusations of genocide in the ICJ made by this African country.;["SOUTH AFRICA"];NA;Will
+Current Events;Taiwan’s Green Party recently won the presidential election. Name this newly elected president of Taiwan.;["CHING-TE","LAI CHING-TE"];NA;Will
+Current Events;A volcano erruption in this European country recently lead to an evacuation of the town of Grindavík.;["ICELAND"];NA;Will
+Current Events;Which former California governer was recently detained at a Munich airport after failing to report the sale of a watch?;["SCHWARZENEGGER","ARNOLD SCHWARZENEGGER"];NA;Will
+Current Events;Which asian country recently landed on the moon?;["JAPAN"];NA;Freshman
+Current Events;What head coach did the Chargers just hire?;["HARBOUGH"];NA;Freshman
+Current Events;In which city will the 2nd highest clock tower be constructed?;["DUBAI"];NA;Freshman
+Current Events;An earthquake of a 7.0 magnitude recently occurred in which East Asian country?;["CHINA"];NA;Freshman
+Current Events;Which US Governor recently disobeyed federal authority over the border-crisis in his state?;["ABBOTT","GREG ABBOTT"];NA;Will
+Current Events;Name this country whose captial's chief of police was recently charged with negligence following a disaster that occurred late last year?;["SOUTH KOREA"];NA;Freshman
+Current Events;Which Republican candidate most recently dropped out of the presidental election?;["DESANTIS", "RON DESANTIS"];NA;Freshman
+Current Events;Which Republican candidate won the Iowa Republican Caucus?;["TRUMP","DONALD TRUMP"];NA;Freshman
+Current Events;Which Republican candidate won the New Hampshire Republican primary?;["TRUMP","DONALD TRUMP"];NA;Freshman
+Current Events;Which 2 teams are playing for the Super Bowl?;["SAN FRANCISCO 49ERS AND KANSAS CITY CHIEFS"];NA;BRADY
+Current Events;Name the member of President Biden's cabinet who recently had articles of impeachment brought against them.;["MAYORKAS","ALEJANDRO MAYORKAS"];NA;Will
+Current Events;Name one of the three African nations who recently left ECOWAS over "unfair" sanctions.;["MALI","NIGER","BURKINA FASO", "MALI, NIGER, OR BURKINA FASO"];NA;Will
+Current Events;Name the intergovernmental organization which recently announced that they would be adding five new countries?:["BRICS"];NA;Will
+Current Events;Former US President Donald Trump was recently nominated for which award?;["NOBEL PEACE PRIZE"];NA;Will

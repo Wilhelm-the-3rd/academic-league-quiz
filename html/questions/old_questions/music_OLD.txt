@@ -1,0 +1,8 @@
+Music:Give the nickname of Beethoven’s Third Symphony.:["EROICA"]:NCAL
+Music:What is the full name of the man who is credited with the invention of the saxophone?:["SAX", "ADOLPHE SAX"]:NCAL
+Music:Name one of the two C clefs in modern music.:["ALTO","TENOR","ALTO OR TENOR"]:Juniper
+Music:Which opera composer wrote Madama Butterfly?:["PUCCINI"]:Juniper
+Music:What style of music did both Mozart and Haydn primarily write?:["CONTEMPORARY"]:Juniper
+Music:What instrument family does the Euphonium belong to?:["BRASS"]:Juniper
+Music:Name the brass instrument originally called a sackbut, which has a slide.:["TROMBONE"]:NCAL
+Music:Name the musical term for the high make voice in a 4-part choir.:["TENOR", "COUNTERTENOR"]:NCAL

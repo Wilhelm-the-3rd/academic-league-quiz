@@ -1,17 +1,17 @@
-World History:Who overthrew the Batista regime in Cuba in 1959?:["CASTRO","FIDEL CASTRO"]:NCAL
-World History:Give the name of the first prime minister of India.:["NEHRU", "JAWARHARLAL NEHRU"]:NCAL
-World History:What is the name of the airplane flown solo across the Atlantic by Charles Lindbergh?:["SPIRIT OF ST. LOUIS", "THE SPIRIT OF ST. LOUIS"]:NCAL
-World History:Name the South Vietnamese ruler who was assasinated in 1963.:["DIEM","NGO DINH DIEM"]:NCAL
-World History:Which European war ended the peace created by the Congress of Vienna?:["CRIMEAN","CRIMEAN WAR"]:NCAL
-World History:During the 17th century, which country was England's chief maritime rival?:["NETHERLANDS","THE NETHERLANDS"]:NCAL
-World History:What major religion did Mohandas Gandhi practice?:["HINDUISM"]:NCAL
-World History:Name the British-held country in which the Sepoy Rebellion occurred.:["INDIA", "REPUBLIC OF INDIA"]:NCAL
-World History:Name the famous prize won by Martin Luther King, Jr. in 1964.:["NOBEL PEACE", "NOBEL PEACE PRIZE"]:NCAL
-World History:Name the scientist who was offered the presidency of Israel in 1952 by David Ben-Gurion, though he declined the offer.:["EINSTEIN", "ALBERT EINSTEIN"]:NCAL
-World History:Name the Egyptian Sun god.:["RA"]:NCAL
-World History:Name the second son of Henry VII and Elizabeth of York.:["HENRY VIII"]:NCAL
-World History:Name the country in which Ulrich Zwingli was a leader in the protestant reformation.:["SWITZERLAND"]:NCAL
-World History:Give the name of the faction of the Russian Social Democratic Labor Party which seized control of the Russian government during the October Revolution of 1917.:["BOLSHEVIKS"]:NCAL
-World History:What event temporarily halted the fighting between nationalists and communists in China in the 1930's?:["INVASION BY JAPAN", "INVASION OF MANCHURIA"]:NCAL
-World History:Identify either of the 2 countries that recieved money from the U.S under the Truman Doctrine.:["GREECE", "TURKEY"]:NCAL
-World History:Name the ancient civilization which produced Zoroastrianism.:["PERSIA"]:NCAL
+World History;Who overthrew the Batista regime in Cuba in 1959?;["CASTRO","FIDEL CASTRO"];Junior Varsity;NCAL
+World History;Give the name of the first prime minister of India.;["NEHRU", "JAWARHARLAL NEHRU"];Junior Varsity;NCAL
+World History;What is the name of the airplane flown solo across the Atlantic by Charles Lindbergh?;["SPIRIT OF ST. LOUIS", "THE SPIRIT OF ST. LOUIS"];Junior Varsity;NCAL
+World History;Name the South Vietnamese ruler who was assasinated in 1963.;["DIEM","NGO DINH DIEM"];Junior Varsity;NCAL
+World History;Which European war ended the peace created by the Congress of Vienna?;["CRIMEAN","CRIMEAN WAR"];Junior Varsity;NCAL
+World History;During the 17th century, which country was England's chief maritime rival?;["NETHERLANDS","THE NETHERLANDS"];Junior Varsity;NCAL
+World History;What major religion did Mohandas Gandhi practice?;["HINDUISM"];Junior Varsity;NCAL
+World History;Name the British-held country in which the Sepoy Rebellion occurred.;["INDIA", "REPUBLIC OF INDIA"];Junior Varsity;NCAL
+World History;Name the famous prize won by Martin Luther King, Jr. in 1964.;["NOBEL PEACE", "NOBEL PEACE PRIZE"];Junior Varsity;NCAL
+World History;Name the scientist who was offered the presidency of Israel in 1952 by David Ben-Gurion, though he declined the offer.;["EINSTEIN", "ALBERT EINSTEIN"];Junior Varsity;NCAL
+World History;Name the Egyptian Sun god.;["RA"];Junior Varsity;NCAL
+World History;Name the second son of Henry VII and Elizabeth of York.;["HENRY VIII"];Junior Varsity;NCAL
+World History;Name the country in which Ulrich Zwingli was a leader in the protestant reformation.;["SWITZERLAND"];Junior Varsity;NCAL
+World History;Give the name of the faction of the Russian Social Democratic Labor Party which seized control of the Russian government during the October Revolution of 1917.;["BOLSHEVIKS"];Junior Varsity;NCAL
+World History;What event temporarily halted the fighting between nationalists and communists in China in the 1930's?;["INVASION BY JAPAN", "INVASION OF MANCHURIA"];Junior Varsity;NCAL
+World History;Identify either of the 2 countries that recieved money from the U.S under the Truman Doctrine.;["GREECE", "TURKEY"];Junior Varsity;NCAL
+World History;Name the ancient civilization which produced Zoroastrianism.;["PERSIA"];Junior Varsity;NCAL

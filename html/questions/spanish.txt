@@ -1,11 +1,11 @@
-Spanish:Spell, using the English alphabet, the one-word Spanish translation of the phrase "town square.":["LA PLAZA","PLAZA","EL ZOCALO","ZOCALO","PLAZA OR ZOCALO","ZOCALO OR PLAZA","LA PLAZA OR EL ZOCALO"]:NCAL
-Spanish:Spell, using the English alphabet the 3-word Spanish phrase that means "See you later.":["HASTA LA VISTA", "HASTA LA PROXIMA"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish word that means "keyboard," as in ’Please use the keyboard to type your essay into the computer.":["TECLADO"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish noun that means "weight," as in "The weight of this book is 15 pounds.":["PESO"]:NCAL
-Spanish:Spell, using the English alphabet, the infinitive form of the Spanish verb meaning "to cry," as in "He was so sad that he wanted to cry.":["LLORAR"]:NCAL
-Spanish:Spell, using the English alphabet, the one-word Spanish translation for the phrase "last night," as in "Last night, Gus was talking to a pretty girl.":["ANOCHE", "A-N-O-C-H-E"]:NCAL
-Spanish:Spell, using the English alphabet, the first person plural, preterite indicative conjugation of the Spanish verb that is spelled s-a-b-e-r.:["SUPIMOS", "S-U-P-I-M-O-S"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish masculine, singular form of the adjective meaning "sad", as in "The sad boy is crying.":["TRISTE"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish word that means "weight," as in "The weight of this book is 15 pounds.":["PESO", "EL PESO"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish noun that means "treasure.":["TESORO"]:NCAL
-Spanish:Spell, using the English alphabet, the Spanish word that means "sofa.":["SOFA"]:NCAL
+Spanish;Spell, using the English alphabet, the one-word Spanish translation of the phrase "town square.";["LA PLAZA","PLAZA","EL ZOCALO","ZOCALO","PLAZA OR ZOCALO","ZOCALO OR PLAZA","LA PLAZA OR EL ZOCALO"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet the 3-word Spanish phrase that means "See you later.";["HASTA LA VISTA", "HASTA LA PROXIMA"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish word that means "keyboard," as in ’Please use the keyboard to type your essay into the computer.";["TECLADO"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish noun that means "weight," as in "The weight of this book is 15 pounds.";["PESO"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the infinitive form of the Spanish verb meaning "to cry," as in "He was so sad that he wanted to cry.";["LLORAR"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the one-word Spanish translation for the phrase "last night," as in "Last night, Gus was talking to a pretty girl.";["ANOCHE", "A-N-O-C-H-E"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the first person plural, preterite indicative conjugation of the Spanish verb that is spelled s-a-b-e-r.;["SUPIMOS", "S-U-P-I-M-O-S"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish masculine, singular form of the adjective meaning "sad", as in "The sad boy is crying.";["TRISTE"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish word that means "weight," as in "The weight of this book is 15 pounds.";["PESO", "EL PESO"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish noun that means "treasure.";["TESORO"];Junior Varsity;NCAL
+Spanish;Spell, using the English alphabet, the Spanish word that means "sofa.";["SOFA"];Junior Varsity;NCAL
