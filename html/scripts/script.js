@@ -17,19 +17,19 @@ function parseFile(filePath) {
             const lines = data.split('\n').map(line => line.trim());
 
             lines.forEach(line => {
-                const regex = /^([^;]+);([^;]+);(\[.*]);([^;]+);([^;]+)$/;
-                const match = line.match(regex);
+                const regex = /^([^;]+);([^;]+);(\[.*]);([^;]+);([^;]+)$/
+                    , match = line.match(regex);
 
                 if (!match)
                     console.error('Invalid line format: ' + line + ' in ' + filePath);
 
                 try { JSON.parse(match[3].trim()); } catch (e) { console.log(e + ": " + line + " in " + filePath) }
 
-                const category = match[1].trim();
-                const question = match[2].trim();
-                const answers = JSON.parse(match[3].trim());
-                const level = match[4].trim();
-                const author = match[5].trim();
+                const category = match[1].trim()
+                    , question = match[2].trim()
+                    , answers = JSON.parse(match[3].trim())
+                    , level = match[4].trim()
+                    , author = match[5].trim();
 
                 questionPool.set(question, [answers, category, level, author]);
             });
