@@ -1,6 +1,6 @@
 Current Events;Which US Governor recently disobeyed federal authority over the border-crisis in his state?;["ABBOTT","GREG ABBOTT"];NA;Will
 Current Events;Name this country whose capital's chief of police was recently charged with negligence following a disaster that occurred late last year?;["SOUTH KOREA"];NA;Freshman
-Current Events;Which Republican candidate most recently dropped out of the presidental election?;["DESANTIS", "RON DESANTIS"];NA;Freshman
+Current Events;Which Republican candidate most recently dropped out of the presidential election?;["DESANTIS", "RON DESANTIS"];NA;Freshman
 Current Events;Which Republican candidate won the Iowa Republican Caucus?;["TRUMP","DONALD TRUMP"];NA;Freshman
 Current Events;Which Republican candidate won the New Hampshire Republican primary?;["TRUMP","DONALD TRUMP"];NA;Freshman
 Current Events;Which 2 teams are playing for the Super Bowl?;["SAN FRANCISCO 49ERS AND KANSAS CITY CHIEFS"];NA;BRADY
