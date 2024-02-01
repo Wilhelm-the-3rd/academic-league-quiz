@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Academic League Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+    <body>
+    <div class="container">
+
+        <h1>Create Questions</h1>
+
+        <p>For easily entering the questions into their usable format.<br>Click on output to copy.</p>
+        <p>Answer input example: answer1,answer2,answer3</p>
+        <hr class="solid">
+
+        <form id="category" class="answer-form">
+            <label for="category-text" class="answer-label">Category: </label>
+            <input type="text" placeholder="Text..." id="category-text" class="answer-input">
+        </form>
+
+        <p></p>
+
+        <form id="question" class="answer-form">
+            <label for="question-text" class="answer-label">Question: </label>
+            <input type="text" placeholder="Text..." id="question-text" class="answer-input">
+        </form>
+
+        <p></p>
+
+        <form id="answers" class="answer-form">
+            <label for="answers-text" class="answer-label">Answers: </label>
+            <input type="text" placeholder="Text..." id="answers-text" class="answer-input">
+        </form>
+
+        <p></p>
+
+        <form id="difficulty" class="answer-form">
+            <label for="difficulty-text" class="answer-label">Difficulty: </label>
+            <input type="text" placeholder="Text..." id="difficulty-text" class="answer-input">
+        </form>
+
+        <p></p>
+
+        <form id="author" class="answer-form">
+            <label for="author-text" class="answer-label">Author: </label>
+            <input type="text" placeholder="Text..." id="author-text" class="answer-input">
+        </form>
+
+        <h2 onclick="copy()">Output: </h2>
+        <h3 id="text-output" onclick="copy()" class="out"></h3>
+
+        <script src="scripts/create.js"></script>
+
+    </div>
+    </body>
+</html>
