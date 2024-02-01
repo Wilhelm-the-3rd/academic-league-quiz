@@ -1,53 +1,45 @@
-const questionText = document.getElementById("questionText");
-const answerInput = document.getElementById("answer");
-const answerResult = document.getElementById("answerResult");
-let questionPool = new Map();
+function getElement(id) { return document.getElementById(id); }
+function setText(element, newText) { element.textContent = newText; }
 
-let currentQuestion;
+const questionText = getElement("questionText")
+    , answerInput = getElement("answer")
+    , answerResult = getElement("answerResult");
 
-let correct = 0;
-let wrong = 0;
+let questionPool = new Map()
+    , correct = 0
+    , wrong = 0
+    , currentQuestion;
 
 function parseFile(filePath) {
 
     fetch(filePath)
-        .then(response => response.text())
-        .then(data => {
-            const lines = data.split('\n').map(line => line.trim()); // Trim each line
+        .then(response => response.text()).then(data => {
+            const lines = data.split('\n').map(line => line.trim());
 
             lines.forEach(line => {
-                const regex = /^([^:]+);([^:]+);(\[.*]);([^:]+);([^:]+)$/;
-
+                const regex = /^([^;]+);([^;]+);(\[.*]);([^;]+);([^;]+)$/;
                 const match = line.match(regex);
 
-                if (match) {
-                    const category = match[1].trim();
-                    const question = match[2].trim();
-                    try {
-                        JSON.parse(match[3].trim());
-                    } catch (e) {
-                        console.log(e + ": " + line + " in " + filePath)
-                    }
-                    const answers = JSON.parse(match[3].trim());
-                    const level = match[4].trim();
-                    const author = match[5].trim();
-
-                    questionPool.set(question, [answers, category, level, author]);
-                } else {
+                if (!match)
                     console.error('Invalid line format: ' + line + ' in ' + filePath);
-                }
+
+                try { JSON.parse(match[3].trim()); } catch (e) { console.log(e + ": " + line + " in " + filePath) }
+
+                const category = match[1].trim();
+                const question = match[2].trim();
+                const answers = JSON.parse(match[3].trim());
+                const level = match[4].trim();
+                const author = match[5].trim();
+
+                questionPool.set(question, [answers, category, level, author]);
             });
 
             console.log(questionPool.size);
             displayQuestion();
 
-            document.getElementById("loaded-questions").textContent = questionPool.size + " Questions Loaded...";
+            setText(getElement("loaded-questions"), questionPool.size + " Questions Loaded...")
 
-        })
-        .catch(error => {
-            console.error('Error fetching questions:', error);
-        });
-
+        }).catch(error => { console.error('Error fetching questions:', error); });
 }
 
 function checkAnswer() {
@@ -56,28 +48,28 @@ function checkAnswer() {
     const visibleAnswer = acceptableAnswers[acceptableAnswers.length - 1]
 
     if (acceptableAnswers.includes(userAnswer)) {
-        answerResult.textContent = "Correct answer!\n The answer was: " + visibleAnswer;
+        setText(answerResult, "Correct answer!\n The answer was: " + visibleAnswer)
         answerResult.style.color = "green";
         correct++;
     } else {
-        answerResult.textContent = "Incorrect answer.\n The correct answer was: " + visibleAnswer;
+        setText(answerResult, "Incorrect answer!\n The correct answer was: " + visibleAnswer)
         answerResult.style.color = "red";
         wrong++;
     }
 
-    document.getElementById("submit").style.visibility = "hidden";
-    document.getElementById("score").textContent = "Correct: "+ correct +" | Incorrect: " + wrong;
+    getElement("submit").style.visibility = "hidden";
+    setText(getElement("score"), "Correct: " + correct + " | Incorrect: " + wrong);
 
 }
 
 function nextQuestion() {
     questionPool.delete(currentQuestion);
 
-    if (questionPool.size !== 0) {
+    if (questionPool.size !== 0)
         displayQuestion();
-    } else {
+    else {
 
-        answerResult.textContent = "No more questions!";
+        setText(answerResult, "No more questions!");
         answerResult.style.color = "black";
 
     }
@@ -108,18 +100,18 @@ function newQuestion() {
 
     getRandomQuestion();
 
-
-    questionText.textContent = "";
+    setText(questionText, "");
     i=0;
     typingEffect();
-    document.getElementById("questionAuthor").textContent = "Author: " + questionPool.get(currentQuestion)[3];
-    document.getElementById("questionDifficulty").textContent = "Difficulty: " + questionPool.get(currentQuestion)[2];
-    document.getElementById("questionCategory").textContent = "Category: " + questionPool.get(currentQuestion)[1];
+
+    setText(getElement("questionCategory"), "Category: " + questionPool.get(currentQuestion)[1]);
+    setText(getElement("questionDifficulty"), "Difficulty: " + questionPool.get(currentQuestion)[2]);
+    setText(getElement("questionAuthor"), "Author: " + questionPool.get(currentQuestion)[3]);
 
 }
 
 function displayQuestion() {
-    document.getElementById("submit").style.visibility = "visible";
+    getElement("submit").style.visibility = "visible";
 
     newQuestion();
 
@@ -138,125 +130,105 @@ function clearQuestion() {
 function updateQuestionPool() {
     clearQuestion();
 
-    if (document.getElementById("us_history").checked) {
+    if (getElement("us_history").checked)
         parseFile('questions/us_history.txt');
-    }
-    if (document.getElementById("world_history").checked) {
+    if (getElement("world_history").checked)
         parseFile('questions/world_history.txt');
-    }
-    if (document.getElementById("art_history").checked) {
+    if (getElement("art_history").checked)
         parseFile('questions/art_history.txt');
-    }
-    if (document.getElementById("geography").checked) {
+    if (getElement("geography").checked)
         parseFile('questions/geography.txt');
-    }
-    if (document.getElementById("mythology").checked) {
+    if (getElement("mythology").checked)
         parseFile('questions/mythology.txt');
-    }
-    if (document.getElementById("music").checked) {
+    if (getElement("music").checked)
         parseFile('questions/music.txt');
-    }
 
-    if (document.getElementById("calculus").checked) {
+    if (getElement("calculus").checked)
         parseFile('questions/calculus.txt');
-    }
-    if (document.getElementById("trig").checked) {
+    if (getElement("trig").checked)
         parseFile('questions/trigonometry.txt');
-    }
-    if (document.getElementById("algebra").checked) {
+    if (getElement("algebra").checked)
         parseFile('questions/algebra.txt');
-    }
-    if (document.getElementById("geometry").checked) {
+    if (getElement("geometry").checked)
         parseFile('questions/geometry.txt');
-    }
 
-    if (document.getElementById("chemistry").checked) {
+    if (getElement("chemistry").checked)
         parseFile('questions/chemistry.txt');
-    }
-    if (document.getElementById("physics").checked) {
+    if (getElement("physics").checked)
         parseFile('questions/physics.txt');
-    }
-    if (document.getElementById("biology").checked) {
+    if (getElement("biology").checked)
         parseFile('questions/biology.txt');
-    }
-    if (document.getElementById("earthSpaceScience").checked) {
+    if (getElement("earthSpaceScience").checked)
         parseFile('questions/earth_space_science.txt');
-    }
 
-    if (document.getElementById("englishLit").checked) {
+    if (getElement("englishLit").checked)
         parseFile('questions/english_literature.txt');
-    }
-    if (document.getElementById("americanLit").checked) {
+    if (getElement("americanLit").checked)
         parseFile('questions/american_literature.txt');
-    }
-    if (document.getElementById("english").checked) {
+    if (getElement("english").checked)
         parseFile('questions/english.txt');
-    }
-    if (document.getElementById("spanish").checked) {
+    if (getElement("spanish").checked)
         parseFile('questions/spanish.txt');
-    }
-    if (document.getElementById("french").checked) {
+    if (getElement("french").checked)
         parseFile('questions/french.txt');
-    }
 
-    if (document.getElementById("currentEvents").checked) {
+    if (getElement("currentEvents").checked)
         parseFile('questions/current_events.txt');
-    }
 
 }
 
-document.getElementById("all").addEventListener("click", function(){
+getElement("all").addEventListener("click", function(){
 
     if (this.checked) {
-        document.getElementById("us_history").checked = true;
-        document.getElementById("world_history").checked = true;
-        document.getElementById("art_history").checked = true;
-        document.getElementById("geography").checked = true;
-        document.getElementById("mythology").checked = true;
-        document.getElementById("music").checked = true;
+        getElement("us_history").checked = true;
+        getElement("world_history").checked = true;
+        getElement("art_history").checked = true;
+        getElement("geography").checked = true;
+        getElement("mythology").checked = true;
+        getElement("music").checked = true;
 
-        document.getElementById("calculus").checked = true;
-        document.getElementById("algebra").checked = true;
-        document.getElementById("geometry").checked = true;
-        document.getElementById("trig").checked = true;
+        getElement("calculus").checked = true;
+        getElement("algebra").checked = true;
+        getElement("geometry").checked = true;
+        getElement("trig").checked = true;
 
-        document.getElementById("chemistry").checked = true;
-        document.getElementById("physics").checked = true;
-        document.getElementById("biology").checked = true;
-        document.getElementById("earthSpaceScience").checked = true;
+        getElement("chemistry").checked = true;
+        getElement("physics").checked = true;
+        getElement("biology").checked = true;
+        getElement("earthSpaceScience").checked = true;
 
-        document.getElementById("english").checked = true;
-        document.getElementById("englishLit").checked = true;
-        document.getElementById("americanLit").checked = true;
-        document.getElementById("spanish").checked = true;
-        document.getElementById("french").checked = true;
+        getElement("english").checked = true;
+        getElement("englishLit").checked = true;
+        getElement("americanLit").checked = true;
+        getElement("spanish").checked = true;
+        getElement("french").checked = true;
 
-        document.getElementById("currentEvents").checked = true;
+        getElement("currentEvents").checked = true;
     } else {
-        document.getElementById("us_history").checked = false;
-        document.getElementById("world_history").checked = false;
-        document.getElementById("art_history").checked = false;
-        document.getElementById("geography").checked = false;
-        document.getElementById("mythology").checked = false;
-        document.getElementById("music").checked = false;
+        getElement("us_history").checked = false;
+        getElement("world_history").checked = false;
+        getElement("art_history").checked = false;
+        getElement("geography").checked = false;
+        getElement("mythology").checked = false;
+        getElement("music").checked = false;
 
-        document.getElementById("calculus").checked = false;
-        document.getElementById("algebra").checked = false;
-        document.getElementById("geometry").checked = false;
-        document.getElementById("trig").checked = false;
+        getElement("calculus").checked = false;
+        getElement("algebra").checked = false;
+        getElement("geometry").checked = false;
+        getElement("trig").checked = false;
 
-        document.getElementById("chemistry").checked = false;
-        document.getElementById("physics").checked = false;
-        document.getElementById("biology").checked = false;
-        document.getElementById("earthSpaceScience").checked = false;
+        getElement("chemistry").checked = false;
+        getElement("physics").checked = false;
+        getElement("biology").checked = false;
+        getElement("earthSpaceScience").checked = false;
 
-        document.getElementById("english").checked = false;
-        document.getElementById("englishLit").checked = false;
-        document.getElementById("americanLit").checked = false;
-        document.getElementById("spanish").checked = false;
-        document.getElementById("french").checked = false;
+        getElement("english").checked = false;
+        getElement("englishLit").checked = false;
+        getElement("americanLit").checked = false;
+        getElement("spanish").checked = false;
+        getElement("french").checked = false;
 
-        document.getElementById("currentEvents").checked = false;
+        getElement("currentEvents").checked = false;
     }
 
 });
