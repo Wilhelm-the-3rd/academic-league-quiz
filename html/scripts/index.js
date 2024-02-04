@@ -162,6 +162,7 @@ function clearQuestion() {
 
     answerInput.value = "";
     answerResult.textContent = "";
+    getElement("progress-indicator").style.width = "0";
 
 }
 
@@ -238,53 +239,6 @@ function updateQuestionPool() {
             }
         }
     });
-
-    /*
-    if (getElement("us_history").checked)
-        parseFile('questions/us_history.txt');
-    if (getElement("world_history").checked)
-        parseFile('questions/world_history.txt');
-    if (getElement("art_history").checked)
-        parseFile('questions/art_history.txt');
-    if (getElement("geography").checked)
-        parseFile('questions/geography.txt');
-    if (getElement("mythology").checked)
-        parseFile('questions/mythology.txt');
-    if (getElement("music").checked)
-        parseFile('questions/music.txt');
-
-    if (getElement("calculus").checked)
-        parseFile('questions/calculus.txt');
-    if (getElement("trig").checked)
-        parseFile('questions/trigonometry.txt');
-    if (getElement("algebra").checked)
-        parseFile('questions/algebra.txt');
-    if (getElement("geometry").checked)
-        parseFile('questions/geometry.txt');
-
-    if (getElement("chemistry").checked)
-        parseFile('questions/chemistry.txt');
-    if (getElement("physics").checked)
-        parseFile('questions/physics.txt');
-    if (getElement("biology").checked)
-        parseFile('questions/biology.txt');
-    if (getElement("earthSpaceScience").checked)
-        parseFile('questions/earth_space_science.txt');
-
-    if (getElement("englishLit").checked)
-        parseFile('questions/english_literature.txt');
-    if (getElement("americanLit").checked)
-        parseFile('questions/american_literature.txt');
-    if (getElement("english").checked)
-        parseFile('questions/english.txt');
-    if (getElement("spanish").checked)
-        parseFile('questions/spanish.txt');
-    if (getElement("french").checked)
-        parseFile('questions/french.txt');
-
-    if (getElement("currentEvents").checked)
-        parseFile('questions/current_events.txt');
-*/
 }
 
 function allBoxes(checked) {
