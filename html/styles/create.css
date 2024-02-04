@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    position: relative;
+}
+
+#information-container {
+    margin: auto;
+    position: relative;
+    max-width: 300px;
+    text-align: center;
+}
+
+#create-container {
+    width: 200px;
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+}
+
+#output-container {
+    align-content: center;
+    padding: 5px !important;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#output-label, #output-text {
+    font-weight: normal;
+}
+
+.separator {
+    border-left: 3px solid dimgray;
+    height: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+
+.box-input {
+    padding: 8px;
+    margin-top: 8px;
+    box-sizing: border-box;
+}
+
+#header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+#header h2 {
+    font-size: 18px;
+    margin: 0;
+    color: #555;
+}

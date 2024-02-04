@@ -2,57 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Academic League Quiz</title>
-    <link rel="stylesheet" href="styles/old.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Question Creator</title>
+
+    <link rel="stylesheet" href="styles/create.css">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
     <body>
-    <div class="container">
 
-        <h1>Create Questions</h1>
+    <div id="header">
+        <h1 style="font-size: 35px">Academic League <br> Question Creator</h1>
+        <p style="font-size: 17px; margin-top: -1px">Made by: Will</p>
+    </div>
+
+    <div id="information-container">
 
         <p>For easily entering the questions into their usable format.<br>Click on output to copy.</p>
         <p>Answer input example: answer1,answer2,answer3</p>
-        <hr class="solid">
-
-        <form id="category" class="answer-form">
-            <label for="category-text" class="answer-label">Category: </label>
-            <input type="text" placeholder="Text..." id="category-text" class="answer-input">
-        </form>
-
-        <p></p>
-
-        <form id="question" class="answer-form">
-            <label for="question-text" class="answer-label">Question: </label>
-            <input type="text" placeholder="Text..." id="question-text" class="answer-input">
-        </form>
-
-        <p></p>
-
-        <form id="answers" class="answer-form">
-            <label for="answers-text" class="answer-label">Answers: </label>
-            <input type="text" placeholder="Text..." id="answers-text" class="answer-input">
-        </form>
-
-        <p></p>
-
-        <form id="difficulty" class="answer-form">
-            <label for="difficulty-text" class="answer-label">Difficulty: </label>
-            <input type="text" placeholder="Text..." id="difficulty-text" class="answer-input">
-        </form>
-
-        <p></p>
-
-        <form id="author" class="answer-form">
-            <label for="author-text" class="answer-label">Author: </label>
-            <input type="text" placeholder="Text..." id="author-text" class="answer-input">
-        </form>
-
-        <h2 onclick="copy()">Output: </h2>
-        <h3 id="text-output" onclick="copy()" class="out"></h3>
-
-        <script src="scripts/create.js"></script>
 
     </div>
+
+    <div id="create-container" class="container">
+
+        <form id="category" class="answer-box">
+            <label for="category-text" class="box-label"></label>
+            <input type="text" placeholder="Category" id="category-text" class="box-input">
+        </form>
+
+        <form id="question" class="answer-box">
+            <label for="question-text" class="answer-label"></label>
+            <input type="text" placeholder="Question" id="question-text" class="box-input">
+        </form>
+
+        <form id="answers" class="answer-box">
+            <label for="answers-text" class="answer-label"></label>
+            <input type="text" placeholder="Answers" id="answers-text" class="box-input">
+        </form>
+
+        <form id="difficulty" class="answer-box">
+            <label for="difficulty-text" class="answer-label"></label>
+            <input type="text" placeholder="Level" id="difficulty-text" class="box-input">
+        </form>
+
+        <form id="author" class="answer-box">
+            <label for="author-text" class="answer-label"></label>
+            <input type="text" placeholder="Author" id="author-text" class="box-input">
+        </form>
+
+    </div>
+
+    <div id="output-container" class="container">
+
+        <h3 id="output-text" onclick="copy()" class="out">Output</h3>
+
+    </div>
+
+    <script src="scripts/create.js"></script>
     </body>
 </html>

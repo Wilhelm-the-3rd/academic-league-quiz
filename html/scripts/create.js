@@ -9,7 +9,7 @@ const category = getElement("category-text")
 
 async function copy() {
     try {
-        await navigator.clipboard.writeText(getElement("text-output").textContent);
+        await navigator.clipboard.writeText(getElement("output-text").textContent);
     } catch (e) {
         console.error('Failed to copy: ', e);
     }
@@ -18,13 +18,13 @@ async function copy() {
 function returnQuestion() {
     let answers_formatted = "[";
 
-    answers.value.split(",").forEach((element) => answers_formatted += '"' + element.trim() + '",');
+    answers.value.split(",").forEach((element) => answers_formatted += '"' + element.trim().toUpperCase() + '",');
 
     answers_formatted += "]";
 
     let output = category.value.trim() + ";" + question.value.trim() + ";" + answers_formatted + ";" + difficulty.value.trim() + ";" + author.value.trim();
 
-    setText(getElement("text-output"), output);
+    setText(getElement("output-text"), output);
 
 }
 
