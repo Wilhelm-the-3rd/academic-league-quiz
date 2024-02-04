@@ -35,6 +35,23 @@ h1 {
     align-items: center;
 }
 
+.question-info {
+    text-align: center;
+    align-content: center;
+}
+
+.category-label, .level-label, .author-label, .separator {
+    display: inline-block;
+}
+
+.separator {
+    border-left: 3px solid dimgray;
+    height: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+
 .out {
     font-weight: normal;
 }

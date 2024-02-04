@@ -1,139 +1,220 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Academic League Quiz</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Academic League Questions</title>
+
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
+
 <body>
-<div class="container">
 
-  <a href="#popup-box" class="open">
-    >
-  </a>
+    <div id="header">
+        <h1 style="font-size: 35px">Academic League Questions</h1>
+        <p style="font-size: 17px; margin-top: -1px">Made by: Will, Sal, Juzefh</p>
+    </div>
 
-  <h1>Academic League Questions</h1>
+    <p id="questions-loaded" style="text-align: center;">0 Questions Loaded</p>
 
-  <p>Made by Will, Salvador, and Juzefh</p>
-  <hr class="solid">
+    <div id="question-container" class="container" style="margin-top: 100px">
 
-  <p id="loaded-questions">0 Questions Loaded...</p>
-  <p id="score">Correct: 0 | Incorrect: 0</p>
-  <p class="base">V2l0aCBoZWxwIGZyb20gTWF0aW4gYW5kIENoYXRHUFQ=</p>
+        <div class="question">
+            <p style="font-size: 24px; text-align: center;" id="question-text">Select Categories...</p>
 
-  <p class="space"></p>
+            <p id="answer-result"></p>
 
-  <p id="answerResult" class="answer-result"></p>
-  <p id="questionText" class="question"></p>
+            <form onsubmit="checkAnswer(); return false;" class="answer-form">
+                <input type="text" class="answer-box" placeholder="Answer...">
+                <input type="submit" value="Submit" class="button" id="submit-btn">
+            </form>
 
-  <form onsubmit="checkAnswer(); return false;" class="answer-form">
-    <label for="answer" class="answer-label"></label>
-    <input type="text" placeholder="Answer..." id="answer" name="answer" class="answer-input">
-    <input type="submit" value="Submit" class="submit-button" id="submit">
-  </form>
+            <div class="question-info">
 
-  <p id="questionCategory"></p>
-  <p id="questionDifficulty"></p>
-  <p id="questionAuthor"></p>
+                <p class="category-label">Category: </p>
+                <div class="separator"></div>
+                <p class="level-label">Level: </p>
+                <div class="separator"></div>
+                <p class="author-label">Author: </p>
 
-  <form onsubmit="nextQuestion(); return false;" class="next-q">
-    <input type="submit" value="Next Question" class="submit-button" id="next-button">
-  </form>
+            </div>
 
-</div>
+            <div class="quiz-stats" style="margin-top: -20px">
 
-<div id="popup-box" class="modal">
-  <div class="content">
-    <h2 style="margin-top: -5px">Question Pool</h2>
-    <b>
-      <input type="checkbox" id="all" name="all" value="all">
-      <label for="all"> All Categories</label><br>
+                <p class="correct-label">Correct: 0</p>
+                <div class="separator"></div>
+                <p class="incorrect-label">Incorrect: 0</p>
 
-      <p> </p>
+            </div>
 
-      <input type="checkbox" id="us_history" name="us_history" value="US History">
-      <label for="us_history"> US History</label><br>
+            <form onsubmit="nextQuestion(); return false;" class="next-form">
+                <input type="submit" value="Next Question" class="button" id="next-btn">
+            </form>
 
-      <input type="checkbox" id="world_history" name="world_history" value="World History">
-      <label for="world_history"> World History</label><br>
+        </div>
 
-      <input type="checkbox" id="art_history" name="art_history" value="Art History">
-      <label for="art_history"> Art History</label><br>
+        <div id="progress-bar">
+            <div id="progress-indicator"></div>
+        </div>
 
-      <input type="checkbox" id="geography" name="geography" value="Geography">
-      <label for="geography"> Geography</label><br>
+        <p style="font-size: 15px; text-decoration: underline;" id="toggle"> Question Pool <> </p>
 
-      <input type="checkbox" id="mythology" name="mythology" value="Mythology">
-      <label for="mythology"> Mythology</label><br>
+    </div>
 
-      <input type="checkbox" id="music" name="music" value="Music">
-      <label for="music"> Music</label><br>
+    <div id="filters-container" class="container">
+        <div id="category-filters">
 
-      <p> </p>
+            <p><strong>Filter by Category:</strong></p>
 
-      <input type="checkbox" id="calculus" name="calculus" value="Calculus">
-      <label for="calculus"> Calculus</label><br>
+            <label class="filter-checkbox">
+                <input type="checkbox" onclick="allBoxes('all')" class="category-filter-all" value="all"> All Categories
+            </label>
 
-      <input type="checkbox" id="trig" name="trig" value="Trigonometry">
-      <label for="trig"> Trigonometry</label><br>
+            <label class="filter-checkbox">
+                <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="current-events"> Current Events
+            </label>
 
-      <input type="checkbox" id="algebra" name="algebra" value="Algebra">
-      <label for="algebra"> Algebra</label><br>
+            <div id="humanities">
+                <p style="margin-bottom: 2px"><strong>Humanities:</strong></p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="allBoxes('all-human')" class="category-filter-all" value="all-human"> All
+                </label>
 
-      <input type="checkbox" id="geometry" name="geometry" value="Geometry">
-      <label for="geometry"> Geometry</label><br>
+                <br>
 
-      <p> </p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="us-history"> US History
+                </label>
 
-      <input type="checkbox" id="chemistry" name="chemistry" value="Chemistry">
-      <label for="chemistry"> Chemistry</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="world-history"> World History
+                </label>
 
-      <input type="checkbox" id="physics" name="physics" value="Physics">
-      <label for="physics"> Physics</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="art-history"> Art History
+                </label>
 
-      <input type="checkbox" id="biology" name="biology" value="Biology">
-      <label for="biology"> Biology</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="geography"> Geography
+                </label>
 
-      <input type="checkbox" id="earthSpaceScience" name="earthSpaceScience" value="EarthSpaceScience">
-      <label for="earthSpaceScience"> Earth/Space Science</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="mythology"> Mythology
+                </label>
 
-      <p> </p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="music"> Music
+                </label>
 
-      <input type="checkbox" id="englishLit" name="englishLit" value="EnglishLit">
-      <label for="englishLit"> English Literature</label><br>
+            </div>
 
-      <input type="checkbox" id="americanLit" name="americanLit" value="AmericanLit">
-      <label for="americanLit"> American Literature</label><br>
+            <div id="math">
+                <p style="margin-bottom: 2px"><strong>Math:</strong></p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="allBoxes('all-math')" class="category-filter-all" value="all-math"> All
+                </label>
 
-      <input type="checkbox" id="english" name="english" value="English">
-      <label for="english"> English</label><br>
+                <br>
 
-      <input type="checkbox" id="spanish" name="spanish" value="Spanish">
-      <label for="spanish"> Spanish</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="calculus"> Calculus
+                </label>
 
-      <input type="checkbox" id="french" name="french" value="French">
-      <label for="french"> French</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="trigonometry"> Trigonometry
+                </label>
 
-      <p> </p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="algebra"> Algebra
+                </label>
 
-      <input type="checkbox" id="currentEvents" name="currentEvents" value="CurrentEvents">
-      <label for="currentEvents"> Current Events</label><br>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="geometry"> Geometry
+                </label>
 
-      <form onsubmit="updateQuestionPool(); return false;" class="answer-form">
-        <input type="submit" value="Submit" class="submit-button" id="qpsubmit">
-      </form>
+            </div>
 
-    </b>
+            <div id="science">
+                <p style="margin-bottom: 2px"><strong>Science:</strong></p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="allBoxes('all-science')" class="category-filter-all" value="all-science"> All
+                </label>
 
-    <a href="#" class="box-close">
-      ×
-    </a>
+                <br>
 
-  </div>
-</div>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="chemistry"> Chemistry
+                </label>
 
-<script src="scripts/script.js"></script>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="physics"> Physics
+                </label>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="biology"> Biology
+                </label>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="earth-space-science"> Earth/Space Science
+                </label>
+
+            </div>
+
+            <div id="language">
+                <p style="margin-bottom: 2px"><strong>Language:</strong></p>
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="allBoxes('all-lang')" class="category-filter-all" value="all-lang"> All
+                </label>
+
+                <br>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="english-literature"> English Literature
+                </label>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="american-literature"> American Literature
+                </label>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="english"> English
+                </label>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="spanish"> Spanish
+                </label>
+                <br>
+
+                <label class="filter-checkbox">
+                    <input type="checkbox" onclick="updateQuestionPool()" class="category-filter" value="french"> French
+                </label>
+
+            </div>
+
+        </div>
+
+        <div id="difficulty-filters">
+
+            <p><strong>Filter by Difficulty (If unchecked, difficulty is not considered):</strong></p>
+            <label class="filter-checkbox">
+                <input type="checkbox" onclick="updateQuestionPool()" class="difficulty-filter" value="frosh" id="frosh"> Freshman
+            </label>
+
+            <label class="filter-checkbox">
+                <input type="checkbox" onclick="updateQuestionPool()" class="difficulty-filter" value="jv" id="jv"> Junior Varsity
+            </label>
+
+            <label class="filter-checkbox">
+                <input type="checkbox" onclick="updateQuestionPool()" class="difficulty-filter" value="varsity" id="varsity"> Varsity
+            </label>
+
+        </div>
+
+    </div>
+
+    <script src="scripts/index.js"></script>
 
 </body>
 </html>

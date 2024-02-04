@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Academic League Quiz</title>
+  <link rel="stylesheet" href="styles/old.css">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+<body>
+<div class="container">
+
+  <a href="#popup-box" class="open">
+    >
+  </a>
+
+  <h1>Academic League Questions</h1>
+
+  <p>Made by Will, Salvador, and Juzefh</p>
+  <hr class="solid">
+
+  <p id="loaded-questions">0 Questions Loaded...</p>
+  <p id="score">Correct: 0 | Incorrect: 0</p>
+  <p class="base">V2l0aCBoZWxwIGZyb20gTWF0aW4gYW5kIENoYXRHUFQ=</p>
+
+  <p class="space"></p>
+
+  <p id="answerResult" class="answer-result"></p>
+  <p id="questionText" class="question"></p>
+
+  <form onsubmit="checkAnswer(); return false;" class="answer-form">
+    <label for="answer" class="answer-label"></label>
+    <input type="text" placeholder="Answer..." id="answer" name="answer" class="answer-input">
+    <input type="submit" value="Submit" class="submit-button" id="submit">
+  </form>
+
+  <div class="question-info">
+
+    <p id="questionCategory" class="category-label"></p>
+    <div class="separator"></div>
+    <p id="questionDifficulty" class="level-label"></p>
+    <div class="separator"></div>
+    <p id="questionAuthor" class="author-label"></p>
+
+  </div>
+
+  <form onsubmit="nextQuestion(); return false;" class="next-q">
+    <input type="submit" value="Next Question" class="submit-button" id="next-button">
+  </form>
+
+</div>
+
+<div id="popup-box" class="modal">
+  <div class="content">
+    <h2 style="margin-top: -5px">Question Pool</h2>
+    <b>
+      <input type="checkbox" id="all" name="all" value="all">
+      <label for="all"> All Categories</label><br>
+
+      <p> </p>
+
+      <input type="checkbox" id="us_history" name="us_history" value="US History">
+      <label for="us_history"> US History</label><br>
+
+      <input type="checkbox" id="world_history" name="world_history" value="World History">
+      <label for="world_history"> World History</label><br>
+
+      <input type="checkbox" id="art_history" name="art_history" value="Art History">
+      <label for="art_history"> Art History</label><br>
+
+      <input type="checkbox" id="geography" name="geography" value="Geography">
+      <label for="geography"> Geography</label><br>
+
+      <input type="checkbox" id="mythology" name="mythology" value="Mythology">
+      <label for="mythology"> Mythology</label><br>
+
+      <input type="checkbox" id="music" name="music" value="Music">
+      <label for="music"> Music</label><br>
+
+      <p> </p>
+
+      <input type="checkbox" id="calculus" name="calculus" value="Calculus">
+      <label for="calculus"> Calculus</label><br>
+
+      <input type="checkbox" id="trig" name="trig" value="Trigonometry">
+      <label for="trig"> Trigonometry</label><br>
+
+      <input type="checkbox" id="algebra" name="algebra" value="Algebra">
+      <label for="algebra"> Algebra</label><br>
+
+      <input type="checkbox" id="geometry" name="geometry" value="Geometry">
+      <label for="geometry"> Geometry</label><br>
+
+      <p> </p>
+
+      <input type="checkbox" id="chemistry" name="chemistry" value="Chemistry">
+      <label for="chemistry"> Chemistry</label><br>
+
+      <input type="checkbox" id="physics" name="physics" value="Physics">
+      <label for="physics"> Physics</label><br>
+
+      <input type="checkbox" id="biology" name="biology" value="Biology">
+      <label for="biology"> Biology</label><br>
+
+      <input type="checkbox" id="earthSpaceScience" name="earthSpaceScience" value="EarthSpaceScience">
+      <label for="earthSpaceScience"> Earth/Space Science</label><br>
+
+      <p> </p>
+
+      <input type="checkbox" id="englishLit" name="englishLit" value="EnglishLit">
+      <label for="englishLit"> English Literature</label><br>
+
+      <input type="checkbox" id="americanLit" name="americanLit" value="AmericanLit">
+      <label for="americanLit"> American Literature</label><br>
+
+      <input type="checkbox" id="english" name="english" value="English">
+      <label for="english"> English</label><br>
+
+      <input type="checkbox" id="spanish" name="spanish" value="Spanish">
+      <label for="spanish"> Spanish</label><br>
+
+      <input type="checkbox" id="french" name="french" value="French">
+      <label for="french"> French</label><br>
+
+      <p> </p>
+
+      <input type="checkbox" id="currentEvents" name="currentEvents" value="CurrentEvents">
+      <label for="currentEvents"> Current Events</label><br>
+
+      <form onsubmit="updateQuestionPool(); return false;" class="answer-form">
+        <input type="submit" value="Submit" class="submit-button" id="qpsubmit">
+      </form>
+
+    </b>
+
+    <a href="#" class="box-close">
+      ×
+    </a>
+
+  </div>
+</div>
+
+<script src="scripts/old.js"></script>
+
+</body>
+</html>
