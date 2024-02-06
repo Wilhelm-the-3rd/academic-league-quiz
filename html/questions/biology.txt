@@ -3,15 +3,15 @@ Biology;Instead of seeds, what reproductive structure do ferns use?;["SPORES"];J
 Biology;Name the organelle, found in most eukaryotic cells, that was identified in 1897 by an Italian physician whose first name was Camillo.;["GOLGI BODY", "GOLGI APPARATUS"];Junior Varsity;NCAL
 Biology;Name the body part in which cones and rods are located.;["EYE","EYES","THE EYE","THE EYES"];Junior Varsity;NCAL
 Biology;Give the name for the biological, semi-permeable structure that is made of organic molecules and controls movement through diffusion and osmosi.;["CELL MEMBRANE"];Junior Varsity;NCAL
-Biology;In which organelle is adensine triphosphate primarily produced?;["MITOCHONDRION","MITOCHONDRIA"];Junior Varsity;NCAL
+Biology;In which organelle is adenosine triphosphate primarily produced?;["MITOCHONDRION","MITOCHONDRIA"];Junior Varsity;NCAL
 Biology;Give the biology term for animals which are primarily active at dawn or dusk.;["CREPUSCULAR"];Junior Varsity;NCAL
 Biology;What two-word biology term describes genes that are carried on the X-chromosome.;["SEX LINKED", "SEX-LINKED"];Junior Varsity;NCAL
 Biology;Name the organ of locomotion, connected to the water vascular system, in echinoderms.;["TUBE-FEET", "TUBE FEET", "PODIA", "TUBE FEET or PODIA"];Junior Varsity;NCAL
-Biology;What is the unique shape of the chloroplasts of the alga, Spirogya.;["SPIRAL","HELIX"];Junior Varsity;NCAL
-Biology;Name the organ of the body containing the myocardium, the endocardium, and the pericandium.;["HEART"];Junior Varsity;NCAL
-Biology;What is the antaomical name for the bone of the upper leg?;["FEMUR"];Junior Varsity;NCAL
+Biology;What is the unique shape of the chloroplasts of the alga, Spirogyra.;["SPIRAL","HELIX"];Junior Varsity;NCAL
+Biology;Name the organ of the body containing the myocardium, the endocardium, and the pericardium.;["HEART"];Junior Varsity;NCAL
+Biology;What is the anatomical name for the bone of the upper leg?;["FEMUR"];Junior Varsity;NCAL
 Biology;In addition to chloroplasts, what structure is found in plant cells but not in animal cells?;["CELL WALL"];Junior Varsity;NCAL
-Biology;What is the term for a sudden, spontaneous multiplication of the number of chromosomes in an otherwirse normal cell?;["AUTHOPOLYPLOIDY"];Junior Varsity;NCAL
+Biology;What is the term for a sudden, spontaneous multiplication of the number of chromosomes in an otherwise normal cell?;["AUTHOPOLYPLOIDY"];Junior Varsity;NCAL
 Biology;When cancer spreads to a new tissue, what is the name of the process?;["METASTASIS"];Junior Varsity;NCAL
 Biology;What is the name given to the group of unicellular organisms that don't contain a nucleus.;["PROKARYOTE"];Junior Varsity;NCAL
 Biology;Give the two-word name, sometimes hyphenated, for the type of environmental factors which includes disease, competition, parasites, and food.;["DENSITY-DEPENDENT", "DENSITY DEPENDENT"];Junior Varsity;NCAL

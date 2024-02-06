@@ -5,11 +5,11 @@ Geography;What is the capital of North Korea?;["PYONGYANG"];Junior Varsity;NCAL
 Geography;Which city in Greece would you be visiting if you were having your picture taken near the Arch of Hadrian?;["ATHENS"];Junior Varsity;NCAL
 Geography;Identify either of the countries which comprise the Jutland Peninsula;["GERMANY", "DENMARK", "KINGDOM OF DENMARK", "FEDERAL REPBULIC OF GERMANY", "GERMANY OR DENMARK"];Junior Varsity;NCAL
 Geography;Give the name of the installation in Kentucky that is the site of the U.S. Gold Depository.;["FORT KNOX"];Junior Varsity;NCAL
-Geography;Name the mountain range that seperates Europe from Asia.;["URALS"];Junior Varsity;NCAL
+Geography;Name the mountain range that separates Europe from Asia.;["URALS"];Junior Varsity;NCAL
 Geography;Name the tiny European country nestled high in the Pyrenees between France and Spain.;["ANDORRA"];Junior Varsity;NCAL
 Geography;In which world capital is the "Forbidden City" located?;["PEKING", "BEIJING"];Junior Varsity;NCAL
 Geography;Name the country which contains the easternmost point of the South American continent.;["BRAZIL"];Junior Varsity;NCAL
 Geography;Name the capital of Cambodia.;["PHNOM PENH"];Junior Varsity;NCAL
 Geography;What's the world's smallest independent country by area?;["VATICAN"];Junior Varsity;NCAL
 Geography;In which southern hemisphere country are the Canterbury Plains located?;["NEW ZEALAND"];Junior Varsity;NCAL
-Geography;Name the country whose inhabitants are soemtimes referred to as "Kiwis.";["NEW ZEALAND"];Junior Varsity;NCAL
+Geography;Name the country whose inhabitants are sometimes referred to as "Kiwis.";["NEW ZEALAND"];Junior Varsity;NCAL

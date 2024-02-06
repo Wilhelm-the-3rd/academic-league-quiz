@@ -12,7 +12,7 @@ US History;Who was the commander of the Union forces at the Battle of Antietam?;
 US History;What was the great issue of the Lincoln-Douglas debates?;["EXTENSION OF SLAVERY TO NEW TERRITORIES"];Junior Varsity;NCAL
 US History;Name the U.S. President at the end of the Korean War.;["DWIGHT EISENHOWER", "EISENHOWER"];Junior Varsity;NCAL
 US History;What United Stated warship became a floating museum in North Korea after its capture?;["PUEBLO"];Junior Varsity;NCAL
-US History;From which country did the United States puchase the Virgin Islands?;["DENMARK"];Junior Varsity;NCAL
+US History;From which country did the United States purchase the Virgin Islands?;["DENMARK"];Junior Varsity;NCAL
 US History;Give the maiden name of former first lady, Eleanor Roosevelt.;["ROOSEVELT"];Junior Varsity;NCAL
 US History;Name the U.S. president whose eulogy included the following quote. "First in war, first in peace, and first in the hearts of his countrymen.";["WASHINGTON", "GEORGE WASHINGTON"];Junior Varsity;NCAL
 US History;Which U.S. state had the largest population at the time of the first official census in 1790?;["VIRGINIA"];Junior Varsity;NCAL

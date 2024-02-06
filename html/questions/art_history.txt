@@ -9,6 +9,6 @@ Art History;Name the German painter who created the painting "Washington Crossin
 Art History;Name the museum which contains the largest collection of impressionist paintings in the world.;["JEU DE PAUME"];Junior Varsity;NCAL
 Art History;Name the German-born American illustrator and graphic artist known for his use of psychedelic shapesand color palettes that strongly influenced the counter culture poster art of the late 1960s and early 1970s.;["MAX", "PETER MAX", "PETER MAX FINKELSTEIN"];Junior Varsity;NCAL
 Art History;Name the first Impressionist artist to use words in his paintings.;["TOULOUSE-LAUTREC"];Junior Varsity;NCAL
-Art History;Name the artisitic movement to which Salvador Dali belongs.;["SURREALISM"];Junior Varsity;NCAL
+Art History;Name the artistic movement to which Salvador Dali belongs.;["SURREALISM"];Junior Varsity;NCAL
 Art History;Name the surrealist painter whose works include "The Persistence of Memory.";["SALVADOR DALI", "DALI"];Junior Varsity;NCAL
 Art History;What type of musical composition, based on a courtly Polish dance, was used during World War II to tell the world that Poland had not yet fallen to the Germans?;["POLONAISE"];Junior Varsity;NCAL

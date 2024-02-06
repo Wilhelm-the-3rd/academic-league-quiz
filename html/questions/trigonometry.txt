@@ -8,4 +8,4 @@ Trig;Compute sine squared of 80 degrees plus cosine squared of 80 degrees.;["1",
 Trig;What is the phase shift, in radians, of the trigonometric equation Y equals 3 times the sine of the sine of the quantity "3 X minus pi?";["PI OVER 3", "ONE THIRD TIMES PI"];Junior Varsity;NCAL
 Trig;In a 30-60-90 triangle whose hypotenuse is 10, what is the length of the longer leg?;["5 TIMES ROOT 3", "5 ROOT 3"];Junior Varsity;NCAL
 Trig;Find the area of an isosceles trapezoid with bases of 10 and 18 if one base angle measures 60 degree.;["56 TIMES ROOT 3", "56 ROOT 3"];Junior Varsity;NCAL
-Trig;Find the value contangent of 225 degrees.;["1"];Junior Varsity;NCAL
+Trig;Find the value cotangent of 225 degrees.;["1"];Junior Varsity;NCAL

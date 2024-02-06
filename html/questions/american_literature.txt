@@ -37,7 +37,7 @@ American Literature;Give the name of Edward Albee's first full-length play.;["WH
 American Literature;In which essay by Emerson does he describe an American ideal education that is founded first in a study of nature?;["THE AMERICAN SCHOLAR"];Junior Varsity;NCAL
 American Literature;Name the poet who wrote the poem entitled "Chicago.";["CARL SANDBURG", "SANDBURG"];Junior Varsity;NCAL
 American Literature;Give the name of the poem that Robert Frost read at John F. Kennedy's presidential inauguration in 1961.;["THE GIFT OUTRIGHT"];Junior Varsity;NCAL
-American Literature;Name the John Steinbeck novel that revolves arounf a father, Adam Trask, attempting to raise his two sons in Salinas, California.;["EAST OF EDEN"];Junior Varsity;NCAL
+American Literature;Name the John Steinbeck novel that revolves around a father, Adam Trask, attempting to raise his two sons in Salinas, California.;["EAST OF EDEN"];Junior Varsity;NCAL
 American Literature;Who wrote the short story "A & P?";["JOHN UPDIKE", "UPDIKE"];Junior Varsity;NCAL
 American Literature;What, according to Langston Hughes, dries up like a raisin in the sun?;["A DREAM DEFERRED"];Junior Varsity;NCAL
 American Literature;Who wrote the poem "Stopping by Woods on a Snowy Evening?";["ROBERT FROST", "FROST"];Junior Varsity;NCAL
