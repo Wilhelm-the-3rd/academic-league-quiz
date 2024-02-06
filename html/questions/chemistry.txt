@@ -12,10 +12,10 @@ Chemistry;How many electrons are found in the outermost energy shell of neutral 
 Chemistry;What element is added to rubber during vulcanization?;["S", "SULFUR"];Junior Varsity;NCAL
 Chemistry;Name the acid used in an automotive lead-acid storage battery.;["SULFURIC", "SULFURIC ACID"];Junior Varsity;NCAL
 Chemistry;In the lowest-terms balanced equation for the combustion of benzene, what is the coefficient for carbon dioxide?;["12", "TWELVE"];Junior Varsity;NCAL
-Chemistry;How many grams of water can be heted by one degree Celsius by one calorie of heat?;["ONE","1"];Junior Varsity;NCAL
+Chemistry;How many grams of water can be heated by one degree Celsius by one calorie of heat?;["ONE","1"];Junior Varsity;NCAL
 Chemistry;What is the chemical name for rust?;["FERRIC OXIDE","FE2O3","FE-TWO O-THREE"];Junior Varsity;NCAL
 Chemistry;What substance is formed by the combination of gasoline and napthenic and palmatic acids?;["NAPALM"];Junior Varsity;NCAL
-Chemistry;What is the chemical fonnula for dinitrogen tetroxide?;["N2O4"];Junior Varsity;NCAL
+Chemistry;What is the chemical formula for dinitrogen tetroxide?;["N2O4"];Junior Varsity;NCAL
 Chemistry;What chemical compound inside kernel of popcorn make it "pop" when it is heated?;["WATER", "H2O"];Junior Varsity;NCAL
 Chemistry;In electrochemistry, what is the term for a gain of electrons?;["REDUCTION"];Junior Varsity;NCAL
 Chemistry;Name the type of chemical bond formed by the transfer electrons from one atom to another.;["IONIC BOND"];Junior Varsity;NCAL
