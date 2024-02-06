@@ -3,7 +3,7 @@ Geography;How many official languages are recognized in Switzerland?;["4","FOUR"
 Geography;Give the name of the hiking trail that passes through 14 states from Georgia to Maine in the eastern mountains of the United States.;["APPALACHIAN","APPALACHIAN TRAIL"];Junior Varsity;NCAL
 Geography;What is the capital of North Korea?;["PYONGYANG"];Junior Varsity;NCAL
 Geography;Which city in Greece would you be visiting if you were having your picture taken near the Arch of Hadrian?;["ATHENS"];Junior Varsity;NCAL
-Geography;Identify either of the countries which comprise the Jutland Peninsula;["GERMANY", "DENMARK", "KINGDOM OF DENMARK", "FEDERAL REPBULIC OF GERMANY", "GERMANY OR DENMARK"];Junior Varsity;NCAL
+Geography;Identify either of the countries which comprise the Jutland Peninsula;["GERMANY", "DENMARK", "KINGDOM OF DENMARK", "FEDERAL REPUBLIC OF GERMANY", "GERMANY OR DENMARK"];Junior Varsity;NCAL
 Geography;Give the name of the installation in Kentucky that is the site of the U.S. Gold Depository.;["FORT KNOX"];Junior Varsity;NCAL
 Geography;Name the mountain range that separates Europe from Asia.;["URALS"];Junior Varsity;NCAL
 Geography;Name the tiny European country nestled high in the Pyrenees between France and Spain.;["ANDORRA"];Junior Varsity;NCAL
