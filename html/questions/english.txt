@@ -12,3 +12,4 @@ English;Name the poetic term that identifies two successive rhyming lines of iam
 English;Identify the adverb clause in the following sentence. "Before the game started, John and I ate lunch.";["BEFORE THE GAME STARTED"];Junior Varsity;NCAL
 English;Give the literary term for an event or detail that is chronologically out of its proper time in history.;["ANACHRONISM"];Junior Varsity;NCAL
 English;Spell the name of the punctuation mark that is used in every contraction.;["APOSTROPHE"];Junior Varsity;NCAL
+English;Name either of the homonyms that mean a small, seedless raisin and the swiftest part of a stream.;["CURRANT", "CURRENT", "CURRANT OR CURRENT"];Freshman;NCAL

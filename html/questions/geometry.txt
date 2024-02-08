@@ -5,3 +5,4 @@ Geometry;What is the perimeter, in yards, of an equilateral decagon whose side m
 Geometry;What is area of equilateral triangle with perimeter of twenty-four?;["SIXTEEN ROOT THREE"];Junior Varsity;NCAL
 Geometry;What is the diameter of the circle whose equation is X squared plus Y squared equals 9?;["6","SIX"];Junior Varsity;NCAL
 Geometry;Identify only positive integer which is equal to its cube.;["1","ONE"];Junior Varsity;NCAL
+Geometry;Determine the area of an equilateral triangle in which each side measures 20.;["100 TIMES ROOT 3", "100*sqrt(3)"];Freshman;NCAL

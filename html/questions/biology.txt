@@ -19,3 +19,4 @@ Biology;What is the name any nucleic acid sequence that is removed by splicing i
 Biology;Name the structure through which of the exchange of gases between a lead and its environment takes place.;["STOMATA"];Junior Varsity;NCAL
 Biology;Name the system of tubes in a cell which provides a channel from the nucleus through the cytoplasm to the outside of the cell by the way of cell membrane.;["ENDOPLASMIC RETICULUM"];Junior Varsity;NCAL
 Biology;Name the scientist responsible for the development of vaccines for rabies and anthrax.;["LOUS PASTEUR", "PASTEUR"];Junior Varsity;NCAL
+Biology;Name the color receptors in the retina of the human eye.;["CONES"];Freshman;NCAL

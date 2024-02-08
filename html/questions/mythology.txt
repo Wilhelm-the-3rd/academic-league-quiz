@@ -3,3 +3,5 @@ Mythology;Name the mythical enchantress who turned the crew of Odysseus into swi
 Mythology;Name the god who according to Greek mythology, gave birth to his own son after sewing him into his thigh in order to finish the gestation period.;["ZEUS"];Junior Varsity;NCAL
 Mythology;Name the father of Icarus in the Greek Myth.;["DAEDALUS"];Junior Varsity;NCAL
 Mythology;Name the character in Greek Mythology who opened a box and freed all the world's troubles.;["PANDORA"];Junior Varsity;NCAL
+Mythology;Name the mythological Titan who bore the heavens on his shoulders.;["ATLAS"];Freshman;NCAL
+Mythology;In Greek mythology, name the father of lcarus.;["DAEDALUS"];Freshman;NCAL

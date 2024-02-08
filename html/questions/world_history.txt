@@ -15,3 +15,4 @@ World History;Give the name of the faction of the Russian Social Democratic Labo
 World History;What event temporarily halted the fighting between nationalists and communists in China in the 1930's?;["INVASION BY JAPAN", "INVASION OF MANCHURIA"];Junior Varsity;NCAL
 World History;Identify either of the 2 countries that received money from the U.S under the Truman Doctrine.;["GREECE", "TURKEY"];Junior Varsity;NCAL
 World History;Name the ancient civilization which produced Zoroastrianism.;["PERSIA"];Junior Varsity;NCAL
+World History;Name the Indian who taught that the world's problems are caused by man's desire.;["GUATAMA SIDDHARTHA", "SIDDHARTHA", "BUDDHA"];Freshman;NCAL

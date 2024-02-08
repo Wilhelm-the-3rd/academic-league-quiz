@@ -6,3 +6,4 @@ Music;What style of music did both Mozart and Haydn primarily write?;["CONTEMPOR
 Music;What instrument family does the Euphonium belong to?;["BRASS"];Junior Varsity;Juniper
 Music;Name the brass instrument originally called a sackbut, which has a slide.;["TROMBONE"];Junior Varsity;NCAL
 Music;Name the musical term for the high make voice in a 4-part choir.;["TENOR", "COUNTERTENOR"];Junior Varsity;NCAL
+Music;In music, what is the frequency, in hertz, of the international tuning pitch?;["FOUR HUNDRED FORTY", "440"];Freshman;NCAL

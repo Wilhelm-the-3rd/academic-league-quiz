@@ -7,3 +7,4 @@ French;Spell, using the English alphabet, the French masculine, singular form of
 French;Spell, using the English alphabet, the French word that means "book.";["LIVRE", "BOUQUIN"];Junior Varsity;NCAL
 French;Spell, using the English alphabet, the French word that means "pedestrian.";["PIETON", "PIETONNE"];Junior Varsity;NCAL
 French;Spell, using the English alphabet, the French word that means "paperclips.";["TROMBONE"];Junior Varsity;NCAL
+French;Give the French phrase for art that literally "fools the eye.";["TROMPE L'OEIL"];Freshman;NCAL

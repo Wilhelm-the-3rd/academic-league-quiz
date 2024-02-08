@@ -41,3 +41,5 @@ Algebra;Give the coordinates of the point through which the graphs of all expone
 Algebra;Name the type of conic section represented by the equation X squared plus Y squared minus 10 X plus 8 Y plus 5 equals zero.;["CIRCLE"];Junior Varsity;NCAL
 Algebra;A fair coin is flipped 3 times. What is the probability that heads appears at least once?;["7 OVER 8", "SEVEN-EIGHTHS"];Junior Varsity;NCAL
 Algebra;How many elements are in the intersection of the set containing the even positive integers and the set containing the positive multiples of 5 which are less than 40?;["3"];Junior Varsity;NCAL
+Algebra;Which birthday would a person born in the year 10 BC be celebrating in the year 6 AD?;["15", "FIFTEEN", "15TH", "FIFTEENTH"];Freshman;NCAL
+Algebra;Give the equation of the line that passes through the points "4 comma negative 7" and 4 comma 1.";["X=4", "X EQUALS 4"];Freshman;NCAL

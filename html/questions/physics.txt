@@ -1,2 +1,3 @@
 Physics;What is the scientific term for the rate of change in an object's velocity?;["ACCELERATION"];Junior Varsity;NCAL
 Physics;Give the physics term for an object's tendency to move in a straight line until a force changes its direction.;["INERTIA"];Junior Varsity;NCAL
+Physics;What is the scientific term for the resistance encountered by an object or surface as a result of rubbing against another?;["FRICTION"];Freshman;NCAL

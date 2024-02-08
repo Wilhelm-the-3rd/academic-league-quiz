@@ -13,3 +13,7 @@ Geography;Name the capital of Cambodia.;["PHNOM PENH"];Junior Varsity;NCAL
 Geography;What's the world's smallest independent country by area?;["VATICAN"];Junior Varsity;NCAL
 Geography;In which southern hemisphere country are the Canterbury Plains located?;["NEW ZEALAND"];Junior Varsity;NCAL
 Geography;Name the country whose inhabitants are sometimes referred to as "Kiwis.";["NEW ZEALAND"];Junior Varsity;NCAL
+Geography;What is the longest river in Canada?;["MACKENZIE", "MACKENZIE RIVER"];Freshman;NCAL
+Geography;Name the country who owns Christmas Island.;["AUSTRALIA"];Freshman;NCAL
+Geography;ldentify the country which controls the Juan Fernandez Archipelago and Easter Island.;["CHILE", "REPUBLIC OF CHILE"];Freshman;NCAL
+Geography;What body of water borders Norway, Scotland, Denmark, and England?;["NORTH SEA", "THE NORTH SEA"];Freshman;NCAL

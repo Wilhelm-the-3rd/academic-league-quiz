@@ -4,5 +4,6 @@ Earth and Space Science;Give the name of the only dwarf planet in our solar syst
 Earth and Space Science;Give the name of the first artificial satellite to orbit the earth.;["SPUTNIK"];Junior Varsity;NCAL
 Earth and Space Science;Which planet in the solar system requires approximately 11.8 Earth years to travel around the Sun?;["JUPITER"];Junior Varsity;NCAL
 Earth and Space Science;What word beginning with the letter "g" describes the lunar phase during which the moon is greater than half lit, but less than fully lit?;["GIBBOUS"];Junior Varsity;NCAL
-Earth and Space Science;How many degrees of longitude would be traversed by a person traveling exactly halfway around the world along the 36th parallel oflatitude?;["180","180 DEGREES"];Junior Varsity;NCAL
+Earth and Space Science;How many degrees of longitude would be traversed by a person traveling exactly halfway around the world along the 36th parallel of latitude?;["180","180 DEGREES"];Junior Varsity;NCAL
 Earth and Space Science;Name the type rock that is formed as result of deposition calcium carbonate from sea water.;["LIMESTONE"];Junior Varsity;NCAL
+Earth and Space Science;What is the single-word adjective constructed from two greek words that identifies the scientific theory that the sun is the center of the movement of the earth and the planets?;["HELIOCENTRIC"];Freshman;NCAL
