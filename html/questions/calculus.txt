@@ -1,1 +1,2 @@
 Calculus;Find the derivative, with respect to X, of the expression 2 to the 5 X power.;["2^5X*5LN(2)"];Varsity;NCAL
+Calculus;Find the 2nd derivative, with respect to X, of the expression 4x^3+2x^2+6x+8.;["24x+4"];Varsity;NCAL
